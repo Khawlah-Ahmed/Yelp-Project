@@ -1,0 +1,11 @@
+url = 'https://www.yelp.com/biz/shun-new-york?osq=fine+dining'
+url2 = 'https://www.yelp.com/biz/boucherie-union-square-new-york?osq=fine+dining'
+all_nyc_rest = 'https://www.yelp.com/search?find_desc=fine+dining&find_loc=New+York%2C+NY'
+response = requests.get('https://www.yelp.com/search?find_desc=fine%20dining&find_loc=New%20York%2C%20NY&start=0')
+
+
+
+
+base_url = 'https://www.yelp.com/search?find_desc=fine%20dining&find_loc=New%20York%2C%20NY&start='
+pages_list = [base_url+str(link) for link in range(0, 991, 10)] 
+pages_list
