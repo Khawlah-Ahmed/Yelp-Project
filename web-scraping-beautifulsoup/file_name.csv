@@ -1,0 +1,1081 @@
+	Restaurant Name	Rating	Number of Reviews	Price Range	Food Type	Number of Photos	Mon Hours	Tue Hours	Wed Hours	Thu Hours	Fri Hours	Sat Hours	Sun Hours
+0	Las Palmas Restaurant	4	155	1.0	Mexican	147	16.0	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am
+1	Wei Mei Xian	4	13	1.0	Chinese	11							
+2	Pattie Hut & Grill	4	58	1.0	Caribbean	39	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	Closed
+3	ROLLN	4.5	74	1.0	Japanese, Sushi Bars, Desserts	120	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm
+4	S Wan Cafe 洋紫荆	4.5	119	1.0	Chinese, Hong Kong Style Cafe	140	7:30 am - 6:30 pm	7:30 am - 6:30 pm	7:30 am - 6:30 pm	7:30 am - 6:30 pm	7:30 am - 6:30 pm	7:30 am - 6:30 pm	Closed
+5	Taqueria Tepango	4	210	1.0	Mexican	81	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm
+6	Fauzia's Heavenly Delights	4.5	34	1.0	Caribbean, Food Stands	14	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	Closed	Closed
+7	New Sunny Chinese Food	3.5	11	1.0	Chinese	19							
+8	Moe's Southwest Grill	3.5	125	1.0	Tex-Mex, Mexican	105	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 9:00 pm
+9	Soldier's Restaurant	3.5	51	1.0	Caribbean	22	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am
+10	DokoDemo	4.5	263	1.0	Teppanyaki, Ramen, Pizza	488	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	12:00 pm - 9:30 pm
+11	Mama's Noodle House	4.5	51	1.0	Cantonese, Szechuan, Noodles	70	10:00 am - 10:00 pm	Closed	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+12	John's Fried Chicken	4	48	1.0	Latin American, Chicken Shop, Dominican	36	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm
+13	Woorijip	4	2576	1.0	Korean	1842	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	Closed
+14	Young City Fish Balls 榕城鱼丸店	4.5	8	1.0	Chinese, Noodles, Soup	4							
+15	Dumplings & Things	3.5	213	1.0	Asian Fusion	117	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+16	The Bao Shoppe	4	189	1.0	Asian Fusion	389	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:30 am - 10:00 pm
+17	Antojitos Mexicanos	3.5	35	1.0	Mexican	16	10:00 am - 8:00 pm	10:00 am - 8:00 pm	10:00 am - 8:00 pm	10:00 am - 8:00 pm	10:00 am - 8:00 pm	10:00 am - 8:00 pm	10:00 am - 8:00 pm
+18	Wendy's	2.5	16	1.0	Burgers, Fast Food	17							
+19	Pic Up Stix	3	62	1.0	Chinese	9	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+20	Burger One	4	187	1.0	Burgers, Mexican, Breakfast & Brunch	96	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	7:00 am - 6:00 pm	7:00 am - 6:00 pm
+21	Tutt Cafe	4	221	1.0	Middle Eastern, Sandwiches, Coffee & Tea	173	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm
+22	Go!Go!Curry	4	242	1.0	Japanese Curry	195	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+23	Kennedy Fried Chicken	4	4	1.0	American (New)	14							
+24	Mr Tong Restaurant	3	47	1.0	Chinese	5							
+25	IKEA Restaurant	3	175	1.0	Scandinavian, Fast Food	420	9:30 am - 8:30 pm	9:30 am - 8:30 pm	9:30 am - 8:30 pm	9:30 am - 8:30 pm	9:30 am - 8:30 pm	9:30 am - 8:30 pm	9:30 am - 8:30 pm
+26	L & B Spumoni Gardens	4	3599	1.0	Pizza, Italian	2460	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+27	Leo's Latticini Mama's	4.5	133	1.0	Delis, Italian, Sandwiches	99	Closed	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	Closed
+28	Bella Napoli	3.5	175	1.0	Italian, Pizza, Salad	86	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	11:00 am - 11:00 pm	12:00 pm - 10:00 pm
+29	Grace Dodge Cafe	3	11	1.0	Food Stands	Photos							
+30	China Place	2	45	1.0	Chinese, Japanese	4	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm
+31	Dos Toros Taqueria	4	1311	1.0	Mexican	344	11:30 am - 10:30 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 10:30 pm
+32	La Familia Restaurant	3	17	1.0	Latin American, Bars	76	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am
+33	H K Wonton Garden	3.5	723	1.0	Cantonese, Noodles	586	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am
+34	Big Wong	3.5	1384	1.0	Chinese, Seafood	1322	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm
+35	El Unico Restaurant	3.5	89	1.0	Latin American, Cuban, Breakfast & Brunch	23	5:00 am - 9:00 pm	5:00 am - 9:00 pm	5:00 am - 9:00 pm	5:00 am - 9:00 pm	5:00 am - 9:00 pm	5:00 am - 9:00 pm	5:00 am - 9:00 pm
+36	Taco Bar	3.5	68	1.0	Mexican	51	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 4:00 am	12:00 pm - 4:00 am	12:00 pm - 12:00 am
+37													
+38	969 NYC Coffee	4.5	239	1.0	Coffee & Tea, Japanese	345	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	Closed	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 8:00 pm
+39	The Hideout Chai Bar	4.5	81	1.0	Cafes	74	Closed	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm
+40	Breezy Dogs Food Truck	4.5	19	1.0	American (Traditional), Food Trucks, Burgers	20	10:30 am - 8:00 pm	10:30 am - 8:00 pm	10:30 am - 8:00 pm	10:30 am - 8:00 pm	10:30 am - 8:00 pm	10:30 am - 8:00 pm	10:30 am - 8:00 pm
+41	88 Lan Zhou Handmade Noodle	4	1748	1.0	Chinese, Noodles	2069	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+42	China King	3	39	1.0	Chinese	18							
+43	El Mariachi Restaurant	3.5	230	1.0	Mexican	116	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 1:00 am
+44	Delizia 92	3.5	232	1.0	Pizza, Italian	146	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	12:00 pm - 12:00 am
+45	Sunset Diner	3	110	1.0	Diners, Breakfast & Brunch, Greek	36	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm
+46	Superiority Burger	4	572	1.0	Burgers, Vegetarian	929	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 9:00 pm
+47	Chipotle Mexican Grill	2.5	47	1.0	Mexican, Fast Food	32	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm
+48	K2 Delights	3.5	11	1.0	Indian, Himalayan/Nepalese, Pakistani	16							
+49	Cheeky Sandwiches	4.5	1131	1.0	Sandwiches, Desserts	1151	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 9:00 pm
+50	The Halal Guys	4	9246	1.0	Food Stands, Middle Eastern, Halal	4964	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 2:00 am	11:00 am - 2:00 am
+51	Louie's Pizza	4.5	394	1.0	Italian, Pizza	385	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	Closed
+52	Al Naimat Restaurant & Sweets	4	123	1.0	Pakistani, Desserts, Coffee & Tea	134	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am
+53	Gaia Italian Café	4.5	967	1.0	Italian	889	Closed	9:00 am - 7:00 pm	9:00 am - 7:00 pm	9:00 am - 7:00 pm	9:00 am - 8:00 pm	11:00 am - 3:30 pm	Closed
+54	Boston Market	3.5	42	1.0	American (Traditional), Comfort Food, Sandwiches	58	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:00 pm
+55	White Bear	4	908	1.0	Chinese	727	9:00 am - 8:00 pm	9:00 am - 8:00 pm	Closed	9:00 am - 8:00 pm	9:00 am - 8:00 pm	9:00 am - 8:00 pm	9:00 am - 8:00 pm
+56	Shu Jiao Fu Zhou Cuisine Restaurant	4.5	762	1.0	Chinese	1001	9:30 am - 9:30 pm	9:30 am - 9:30 pm	9:30 am - 9:30 pm	9:30 am - 9:30 pm	9:30 am - 9:30 pm	9:30 am - 9:30 pm	9:30 am - 9:30 pm
+57	Wah Fung No 1 Fast Food	4.5	1317	1.0	Chinese, Fast Food, Noodles	1379	Closed	9:00 am - 7:00 pm	9:00 am - 7:00 pm	9:00 am - 7:00 pm	9:00 am - 7:00 pm	9:00 am - 7:00 pm	9:00 am - 7:00 pm
+58	Thelewala	4	463	1.0	Indian	199	11:30 am - 2:30 am	11:30 am - 2:30 am	11:30 am - 2:30 am	11:30 am - 2:30 am	11:30 am - 5:00 am	11:30 am - 5:00 am	11:30 am - 2:30 am
+59	Pho Grand	3.5	747	1.0	Vietnamese	544	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm
+60	Tacos El Bronco	4	549	1.0	Mexican, Seafood, Cocktail Bars	499							
+61	Souk El Shater	4.5	211	1.0	Lebanese, Falafel	146	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 7:00 pm
+62	Deluxe Green Bo	3.5	609	1.0	Chinese	415	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:30 pm
+63	My Pie	4.5	134	1.0	Pizza, Italian, Vegan	161	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm
+64	Pho Bang Restaurant	4	526	1.0	Vietnamese	491	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+65	Fresh Tortillas Express	3	65	1.0	Mexican	185							
+66	Good Hope	3	36	1.0	Caribbean	13							
+67	Yonah Schimmel's Knish Bakery	4	607	1.0	Kosher, Vegan, Comfort Food	621	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm	10:00 am - 7:00 pm
+68	Patacon Pisao	4	355	1.0	Venezuelan, Sandwiches	448	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 11:00 pm
+69	Taco Mix	4	363	1.0	Mexican	212	7:00 am - 5:00 am	7:00 am - 5:00 am	7:00 am - 5:00 am	7:00 am - 5:00 am	7:00 am - 5:00 am	7:00 am - 5:00 am	7:00 am - 5:00 am
+70	Nam Son Vietnamese Restaurant	3.5	514	1.0	Vietnamese	634							
+71	Nha Trang One	3.5	726	1.0	Vietnamese	538	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm
+72	El Rancho Burritos	3.5	121	1.0	Mexican, Tex-Mex, Vegetarian	66							
+73	Hop Shing Restaurant	3.5	519	1.0	Dim Sum, Cantonese	476	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm
+74	Karam Restaurant	4	314	1.0	Middle Eastern, Halal	212	6:00 am - 1:00 am	6:00 am - 1:00 am	6:00 am - 1:00 am	6:00 am - 1:00 am	6:00 am - 1:00 am	6:00 am - 1:00 am	6:00 am - 1:00 am
+75	Northern King Dumpling - Wang Mandu	4.5	55	1.0	Korean, Specialty Food	68	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm
+76	Cha Chan Tang 茶餐廳	3	1009	1.0	Chinese, Hong Kong Style Cafe	1719	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:30 am - 11:00 pm	7:30 am - 11:00 pm	7:30 am - 11:00 pm
+77	San Remo Pizzeria & Restaurant	3.5	182	1.0	Pizza, Italian	70	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	12:00 pm - 9:30 pm
+78	Fo Ying Chinese Take Out	3	28	1.0	Chinese	Photos							
+79	Taqueria Los Jarritos	4	31	1.0	Mexican	161	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+80	Rumba's Cafe	4.5	285	1.0	Cuban	296	6:00 am - 9:00 pm	6:00 am - 9:00 pm	6:00 am - 9:00 pm	6:00 am - 9:00 pm	6:00 am - 9:00 pm	6:00 am - 9:00 pm	6:00 am - 9:00 pm
+81	Little Caesars	3	13	1.0	Pizza	55							
+82	Fatima's Halal Kitchen	4	375	1.0	Chinese, Halal	165	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	12:00 pm - 11:00 pm
+83	Koro Koro	4	202	1.0	Japanese, Desserts, Cafes	134	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 6:00 pm
+84	Rego Park Cafe	3	64	1.0	Diners	64	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm	6:00 am - 8:00 pm
+85	Nha Trang Centre	3	280	1.0	Vietnamese	203	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm
+86	QQ Cafe & Bakery	3.5	31	1.0	Taiwanese	40							
+87	Tasty Hand-Pulled Noodles	4	1554	1.0	Chinese, Noodles	1339	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm
+88	Veritable	3.5	67	1.0	Sandwiches, Comfort Food, Breakfast & Brunch	60	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm
+89	Grace Pizza	4	84	1.0	Pizza	33	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	12:00 pm - 11:00 pm
+90	Paris Sandwich	3	188	1.0	Vietnamese, Sandwiches	178	8:00 am - 8:00 pm	8:00 am - 8:00 pm	8:00 am - 8:00 pm	8:00 am - 8:00 pm	8:00 am - 8:00 pm	8:00 am - 8:00 pm	8:00 am - 8:00 pm
+91	El Tenampa	4.5	84	1.0	Mexican, Salad, Sandwiches	86	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+92	Noodle Village	4	1022	1.0	Chinese, Noodles	1671	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 11:00 pm	9:30 am - 11:00 pm	9:30 am - 11:00 pm
+93	Arepa Factory	4	203	1.0	Venezuelan, Gluten-Free	228	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 9:00 pm
+94	Pao De Queijo	4	330	1.0	Brazilian, Burgers	411	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am
+95	Cosi	3	79	1.0	Sandwiches, Salad, Soup	36	7:30 am - 9:00 pm	7:30 am - 9:00 pm	7:30 am - 9:00 pm	7:30 am - 9:00 pm	7:30 am - 9:00 pm	8:30 am - 7:00 pm	8:30 am - 7:00 pm
+96	DORADO Tacos & Quesadillas	4	606	1.0	Mexican, Gluten-Free	367	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	12:00 pm - 9:00 pm
+97	Front Street Pizza	4	325	1.0	Pizza, Bars, Italian	186	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm
+98	Great New York Deli & Caterers	4	4	1.0	Delis	Photos							
+99	Kennedy Chicken & Gyro	4.5	12	1.0	Chicken Wings	14							
+100	Big John's Coffee Shop & Grill	4	83	1.0	Bagels, Breakfast & Brunch, Coffee & Tea	30	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 4:00 pm	7:00 am - 4:00 pm	Closed
+101	Taco Bell	3	14	1.0	Fast Food, Tex-Mex, Mexican	27							
+102	Gueros	4	578	1.0	Tex-Mex, Mexican	209	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+103	Green Lake Restaurant	3	53	1.0	Chinese, Thai	22	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+104	Swagat Indian Restaurant	3	102	1.0	Indian	38							
+105	Tacos Matamoros	3.5	572	1.0	Mexican	360	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am
+106	Bei Jing Chinese Foods	3.5	19	1.0	Chinese	15							
+107	Ozone Pizza	4	105	1.0	Pizza	73	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	12:00 pm - 9:30 pm
+108	Amarin Cafe	4	267	1.0	Thai	102	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:30 pm
+109	Shanghai Dumpling	3.5	2107	1.0	Shanghainese, Dim Sum	1708	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 9:30 pm
+110	Charlys	3.5	139	1.0	Diners, Cheesesteaks, Pizza	61							
+111	Mee Noodle Shop & Grill	3.5	287	1.0	Noodles, Cantonese	172	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+112	Vanessa's Dumpling House	4	2560	1.0	Chinese	1741	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:00 pm
+113	New China	3.5	14	1.0	Chinese	Photos							
+114	Hawaiian Grill	3	41	1.0	Hawaiian, Soup	35							
+115	Sam Lee Kitchen	2	33	1.0	Chinese	10							
+116	Kestane Kebab	3.5	201	1.0	Turkish, Middle Eastern	51	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 12:30 am	11:00 am - 12:30 am	11:00 am - 12:30 am	11:00 am - 11:30 pm
+117	New World Mall Food Court	4	823	1.0	Food Court	1977	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+118	Good Friends Chinese Restaurant	3	17	1.0	Chinese	Photos	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	10:30 am - 12:00 am	10:30 am - 12:00 am	12:00 pm - 11:30 pm
+119	Royal Grill Halal Food	5	301	1.0	Halal, Food Trucks, Street Vendors	257	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am
+120	RJR Yummy Kitchen	4	27	1.0	Chinese	15	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+121	Austin's Cafe	2.5	34	1.0	Delis, Cafes	Photos	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	8:00 am - 6:00 pm	8:00 am - 6:00 pm
+122	Kopitiam	4	528	1.0	Malaysian, Singaporean	1708	9:00 am - 10:00 pm	9:00 am - 10:00 pm	Closed	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm
+123	McDonald's	2	25	1.0	Burgers, Fast Food, Coffee & Tea	51	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm
+124	Pizza Park	3.5	289	1.0	Pizza	171	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am
+125	Sicily's Best Pizzeria	4.5	71	1.0	Pizza, Italian	24	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	Closed
+126	B&H Dairy	4.5	458	1.0	Vegetarian, Delis	191	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 11:00 pm
+127	Pranzo Pizza & Pasta	4	107	1.0	Pizza	63	9:00 am - 9:00 pm	9:00 am - 9:00 pm	9:00 am - 9:00 pm	9:00 am - 9:00 pm	9:00 am - 9:00 pm	9:00 am - 9:00 pm	Closed
+128	Ganesh Temple Canteen	4	233	1.0	Indian, Vegetarian, Vegan	264	8:30 am - 9:30 pm	8:30 am - 9:30 pm	8:30 am - 9:30 pm	8:30 am - 9:30 pm	8:30 am - 9:30 pm	8:30 am - 9:30 pm	8:30 am - 9:30 pm
+129	123 Burger Shot Beer	3	1069	1.0	Burgers, American (Traditional)	519	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am
+130	Yummy Taco	3.5	18	1.0	Mexican	15	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	12:00 pm - 11:00 pm
+131	Gourmet Garden 8	2	27	1.0	Chinese	11							
+132	Maru 2	4.5	113	1.0	Japanese, Korean	71	11:00 am - 4:00 pm	11:00 am - 4:00 pm	11:00 am - 4:00 pm	11:00 am - 4:00 pm	11:00 am - 4:00 pm	Closed	Closed
+133	The Halal Guys	3.5	733	1.0	Middle Eastern, Halal, Mediterranean	622	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 5:00 am	10:00 am - 5:00 am	10:00 am - 4:00 am
+134	Nathan's Famous	3.5	1176	1.0	Hot Dogs, Fast Food	1784	10:00 am - 11:00 am	10:00 am - 11:00 am	10:00 am - 11:00 am	10:00 am - 11:00 am	10:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 11:00 pm
+135	Xe May Sandwich Shop	4.5	609	1.0	Sandwiches, Vietnamese	411	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+136	Pick a Bagel	3	312	1.0	Bagels, Breakfast & Brunch, Sandwiches	115	6:00 am - 11:30 pm	6:00 am - 11:30 pm	6:00 am - 11:30 pm	6:00 am - 11:30 pm	6:00 am - 11:30 pm	6:00 am - 11:30 pm	6:00 am - 11:00 pm
+137	Zaragoza Mexican Deli & Grocery	4	296	1.0	Mexican, Grocery	124	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	11:00 am - 12:00 am
+138	L & M Delicatessen & Catering	4.5	89	1.0	Delis, Sandwiches, Breakfast & Brunch	292	6:00 am - 12:45 am	6:00 am - 12:45 am	6:00 am - 12:45 am	6:00 am - 12:45 am	6:00 am - 12:45 am	6:00 am - 12:45 am	6:00 am - 11:45 pm
+139	Tina's Place	4	131	1.0	Diners, American (Traditional), Breakfast & Brunch	40	3:30 am - 4:00 pm	3:30 am - 4:00 pm	3:30 am - 4:00 pm	3:30 am - 4:00 pm	3:30 am - 4:00 pm	3:30 am - 4:00 pm	3:30 am - 4:00 pm
+140	Saigon Shack	4	2310	1.0	Sandwiches, Coffee & Tea, Salad	2025	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 11:00 pm
+141	Mekong Thai & Vietnamese Restaurant	3	350	1.0	Thai, Vietnamese	302	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+142	Nuchas Greeley Square Park	3.5	56	1.0	Argentine, Food Stands	71	7:30 am - 8:00 pm	7:30 am - 8:00 pm	7:30 am - 8:00 pm	7:30 am - 8:00 pm	7:30 am - 8:00 pm	9:00 am - 7:00 pm	10:00 am - 7:00 pm
+143	Bleecker Street Pizza	4	2216	1.0	Pizza, Italian	1168	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 3:00 am	10:00 am - 5:00 am	10:00 am - 5:00 am	10:00 am - 2:00 am
+144	PQR	4	160	1.0	Pizza, Italian	175	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+145	The Burrito Box	4	848	1.0	Mexican	201	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:00 pm
+146	Pho Hoai Restaurant	3.5	286	1.0	Vietnamese	256	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm
+147	La Isla	2.5	27	1.0	Spanish	25							
+148	Amy's Bread	4	1099	1.0	Bakeries, Sandwiches, Coffee & Tea	615	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 9:00 pm
+149	Great NY Noodle Town	3.5	1257	1.0	Cantonese, Noodles	1250	9:00 am - 4:00 am	9:00 am - 4:00 am	9:00 am - 4:00 am	9:00 am - 4:00 am	9:00 am - 4:00 am	9:00 am - 4:00 am	9:00 am - 4:00 am
+150	Mike's Pizza	3.5	23	1.0	Italian, Pizza	8	11:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	11:00 am - 10:00 pm
+151	Aman	4.5	28	1.0	Pakistani, Indian, Halal	56	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+152	2 Bros Pizza	3.5	590	1.0	Pizza	179	10:00 am - 3:00 am	10:00 am - 3:00 am	10:00 am - 3:00 am	10:00 am - 3:00 am	10:00 am - 3:00 am	10:00 am - 3:00 am	10:00 am - 3:00 am
+153	XO Kitchen	3.5	504	1.0	Asian Fusion, Dim Sum	955	8:30 am - 11:00 pm	8:30 am - 11:00 pm	8:30 am - 11:00 pm	8:30 am - 11:00 pm	8:30 am - 11:00 pm	8:30 am - 11:00 pm	8:30 am - 11:00 pm
+154	Waldy's Wood Fired Pizza & Penne	4	796	1.0	Pizza, Italian	446	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+155	Taco Bell	3	33	1.0	Fast Food, Tex-Mex, Mexican	53	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 12:00 am
+156	Papaya King	3.5	549	1.0	Hot Dogs	397	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	9:00 am - 12:00 am
+157	Royal Bangladesh Indian Restaurant	3	213	1.0	Indian, Bangladeshi	156	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am
+158	Xi'an Famous Foods	4	1594	1.0	Chinese, Burgers, Noodles	1661	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm
+159	Rafiqi's	4.5	31	1.0	Mediterranean, Food Stands, Greek	20							
+160	Gray's Papaya	3.5	1345	1.0	Hot Dogs, Juice Bars & Smoothies	829	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+161	Pho Bang Restaurant	3.5	497	1.0	Vietnamese	518	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm
+162	Molino Rojo Restaurant	2.5	85	1.0	Latin American	56	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 2:00 am	6:00 am - 2:00 am	6:00 am - 12:00 am
+163	Hanabi	3.5	96	1.0	Sushi Bars	42	10:45 am - 10:30 pm	10:45 am - 10:30 pm	10:45 am - 10:30 pm	10:45 am - 10:30 pm	10:45 am - 10:30 pm	10:45 am - 10:30 pm	10:45 am - 10:30 pm
+164	494 Chicken	4	40	1.0	Barbeque, American (Traditional), Chicken Wings	19	3:00 pm - 9:00 pm	3:00 pm - 9:00 pm	3:00 pm - 9:00 pm	3:00 pm - 9:00 pm	11:00 am - 11:00 pm	12:00 pm - 11:00 pm	2:00 pm - 9:00 pm
+165	Alba Ristorante & Pizzeria	3.5	161	1.0	Pizza, Italian	207	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+166	Xian Famous Foods	4	238	1.0	Chinese, Noodles	429	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:30 pm	11:00 am - 9:30 pm	11:00 am - 9:00 pm
+167	Burger King	3	32	1.0	Burgers, Fast Food	32	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 12:00 am	6:00 am - 12:00 am	7:00 am - 12:00 am
+168	Bite	4	296	1.0	Salad, Mediterranean, Sandwiches	326	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+169	Off The Wagon	3.5	614	1.0	Sports Bars, American (Traditional)	131	11:30 am - 4:00 am	11:30 am - 4:00 am	11:30 am - 4:00 am	11:30 am - 4:00 am	11:30 am - 4:00 am	11:30 am - 4:00 am	11:30 am - 4:00 am
+170	Fifth Avenue Restaurant & Diner	3.5	131	1.0	Diners	60	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+171	Little Purity	4	153	1.0	Diners, Breakfast & Brunch	91	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm
+172	Rolly Kimbab	3.5	286	1.0	Korean	413	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm	6:00 am - 10:00 pm
+173	Iggy's Pizzeria	3.5	87	1.0	Pizza, Italian	36	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	Closed	11:00 am - 11:00 pm
+174	Thái Son	3.5	460	1.0	Vietnamese	620	10:30 am - 10:15 pm	10:30 am - 10:15 pm	10:30 am - 10:15 pm	10:30 am - 10:15 pm	10:30 am - 10:15 pm	10:30 am - 10:15 pm	10:30 am - 9:45 pm
+175	Thái Son	3.5	820	1.0	Vietnamese	742	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm
+176	Odessa Restaurant	3.5	354	1.0	Diners, Ukrainian, Greek	98	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+177	City Cafe 風成	3	82	1.0	Cantonese, Hong Kong Style Cafe	120							
+178	Crif Dogs	3.5	480	1.0	Hot Dogs	385	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 4:00 am	12:00 pm - 4:00 am	12:00 pm - 2:00 am
+179	Manny's Restaurant BBQ & Deli	4	17	1.0	Barbeque, Spanish, Breakfast & Brunch	11	6:00 am - 7:30 pm	6:00 am - 7:30 pm	6:00 am - 7:30 pm	6:00 am - 7:30 pm	6:00 am - 7:30 pm	7:00 am - 7:30 pm	7:00 am - 8:30 pm
+180	Smiling Pizza Restaurant	3.5	224	1.0	Pizza, Italian	74	10:00 am - 1:45 am	10:00 am - 1:45 am	10:00 am - 1:45 am	10:00 am - 1:45 am	10:00 am - 2:45 am	10:00 am - 2:45 am	11:00 am - 10:45 pm
+181	Sunshine Grill & Restaurant	2.5	35	1.0	Indian, Afghan, Food	4							
+182	McDonald's	1.5	8	1.0	Fast Food, Burgers, Coffee & Tea	44	6:00 am - 11:00 pm	6:00 am - 11:00 pm	6:00 am - 11:00 pm	6:00 am - 11:00 pm	6:00 am - 11:00 pm	6:00 am - 11:00 pm	6:00 am - 11:00 pm
+183	Sbarro	2.5	67	1.0	Italian, Pizza	31							
+184	New Fresco Tortillas	2.5	44	1.0	Mexican, Chinese	42	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	12:30 pm - 10:00 pm	12:30 pm - 10:00 pm
+185	Food Gallery 32	4	799	1.0	Food Court	1497	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+186	Uptown Swirl	3.5	243	1.0	Ice Cream & Frozen Yogurt, Creperies, Waffles	272	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am
+187	Rico Chimi	3	26	1.0	Dominican	24	11:00 am - 5:00 am	11:00 am - 3:00 am	11:00 am - 3:00 am	11:00 am - 5:30 am	11:00 am - 5:30 am	11:00 am - 5:30 am	11:00 am - 3:00 am
+188	Vanessa's Dumpling House	3.5	494	1.0	Chinese	244	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 11:00 pm
+189	Lamb Noodle Soup 滋補羊肉燴面	4.5	182	1.0	Chinese, Noodles	155	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm	9:00 am - 10:00 pm
+190	Jerusalem Restaurant	3	160	1.0	Middle Eastern, Mediterranean, Halal	41	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+191	Stage Door Deli	3.5	120	1.0	Delis	58	4:30 am - 9:00 pm	4:30 am - 9:00 pm	4:30 am - 9:00 pm	4:30 am - 9:00 pm	4:30 am - 9:00 pm	6:00 am - 7:00 pm	Closed
+192	Aburi Sushi Bar	3.5	127	1.0	Sushi Bars, Bars	67	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	12:00 pm - 11:00 pm
+193	Curry Tub	4	56	1.0	Indian	68	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	Closed
+194	Golden House	2.5	87	1.0	Chinese	59	11:00 am - 11:15 pm	11:00 am - 11:15 pm	11:00 am - 11:15 pm	11:00 am - 11:15 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	12:00 pm - 11:15 pm
+195	Jumbo Chinese Kitchen	4	22	1.0	Chinese	18	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	12:00 pm - 11:00 pm
+196	Bedawi Cafe	4	155	1.0	Middle Eastern, Halal	69	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm
+197	Rose's Pizza	3.5	256	1.0	Pizza, Italian	170	10:00 am - 1:00 am	10:00 am - 12:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 9:30 pm
+198	George's Diner & Cafe	4	190	1.0	Diners	164	5:00 am - 11:00 pm	5:00 am - 11:00 pm	5:00 am - 11:00 pm	5:00 am - 11:00 pm	5:00 am - 11:00 pm	5:00 am - 11:00 pm	5:00 am - 11:00 pm
+199	Papaya Dog	3	169	1.0	Hot Dogs	116							
+200	Lz Sushi	3.5	85	1.0	Sushi Bars	47	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	1:00 pm - 9:00 pm	1:00 pm - 8:00 pm
+201	Happy Garden	3.5	67	1.0	Chinese	14	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+202	Lillian Pizzeria	4	232	1.0	Pizza	197	Closed	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm
+203	Phayul	4	270	1.0	Himalayan/Nepalese	468	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm
+204	Francesco's Pizzeria	3.5	221	1.0	Pizza, Italian	103	10:00 am - 12:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 12:00 am
+205	Chinantla	4	109	1.0	Grocery, Tacos	28	9:30 am - 12:00 am	9:30 am - 12:00 am	9:30 am - 12:00 am	9:30 am - 12:00 am	9:30 am - 2:00 am	9:30 am - 2:00 am	9:30 am - 1:00 am
+206	Larry & Joe's Pizzeria	4	118	1.0	Pizza, Italian	28	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:30 pm
+207	88 Chinese Restaurant	3	16	1.0	Chinese	6							
+208	Vanessa's Dumpling House	3	1065	1.0	Chinese	452	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:00 pm
+209	El Mofongo Restaurant	5	384	1.0	Dominican, Sandwiches	365	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 9:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:30 am - 9:00 pm
+210	Chapati House	4	202	1.0	Indian	125	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+211	Taim West Village	4.5	1496	1.0	Vegetarian, Sandwiches, Falafel	525	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+212	Biryani Cart	4	539	1.0	Indian, Food Trucks, Halal	240	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am
+213	Beverley Pizzeria & Cafe	3	98	1.0	Cafes, Italian, Pizza	27	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+214	Tuscany Villa Ristorante	4	47	1.0	Italian, Pizza, Salad	215	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+215	Mike Daddy's Pizza	3.5	83	1.0	Pizza, Italian	91	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+216	Calexico- Union Street	3.5	253	1.0	Mexican	91	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:00 pm
+217	Vegetarian Dim Sum House	3.5	544	1.0	Dim Sum, Vegetarian, Vegan	327	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm
+218	Zorba's Souvlaki Plus	4	240	1.0	Greek	62	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	8:00 am - 11:00 pm
+219	Dani's House of Pizza	3.5	948	1.0	Pizza, Italian	521	5:00 pm - 1:00 am	5:00 pm - 1:00 am	11:00 am - 3:00 am	11:00 am - 3:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 3:00 am
+220	Famous Famiglia Pizzeria	4	62	1.0	Pizza	49	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm	10:00 am - 10:30 pm
+221	Govinda's Vegetarian	4.5	164	1.0	Vegetarian, Vegan, Indian	135	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	Closed	Closed
+222	Dumpling Man	3.5	813	1.0	Chinese	379	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 12:30 am	12:00 pm - 12:30 am	12:00 pm - 12:30 am
+223	The Kati Roll Company	3.5	317	1.0	Indian, Halal	190	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 9:00 pm
+224	Bo Ky Restaurant	3.5	713	1.0	Chinese, Vietnamese	987	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm
+225	Mike's Delicatessen	4	28	1.0	Delis	14	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 9:00 pm	7:00 am - 8:30 pm	7:00 am - 8:30 pm
+226	Ray's Pizza	3	309	1.0	Pizza	239							
+227	McDonald's	1.5	31	1.0	Fast Food, Burgers, Coffee & Tea	55	5:00 am - 4:00 am	5:00 am - 4:00 am	5:00 am - 4:00 am	5:00 am - 4:00 am	5:00 am - 4:00 am	5:00 am - 4:00 am	5:00 am - 4:00 am
+228	Chick-fil-A	4	573	1.0	Fast Food	659	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	Closed
+229	Colombia BBQ Restaurant	3.5	26	1.0	Barbeque	24							
+230	Bakhter Halal Kababs	3.5	250	1.0	Afghan, Halal, Sandwiches	240	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+231	China Gourmet	2.5	211	1.0	Chinese	56	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	12:00 pm - 11:00 pm
+232	Taqueria Y Fonda	3.5	489	1.0	Mexican	139	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+233	Oasis Pizza & Gyro	2.5	69	1.0	Pizza, Breakfast & Brunch, Burgers	56	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am
+234	Pita Press	3.5	178	1.0	Greek, Mediterranean	120	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+235	2 Bros Pizza	4	373	1.0	Pizza	200	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am
+236	John & Tony's	3.5	92	1.0	Pizza	30	10:00 am - 3:45 am	10:00 am - 3:45 am	10:00 am - 3:45 am	10:00 am - 3:45 am	10:00 am - 4:45 am	11:00 am - 4:45 am	11:00 am - 1:45 am
+237	Punjabi Grocery & Deli	4.5	382	1.0	Indian, Grocery, Delis	217	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+238	Lower East Side Coffee Shop	3	113	1.0	Diners, Coffee & Tea	34	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+239	Johny's Luncheonette	4.5	915	1.0	Diners, Breakfast & Brunch, Burgers	603	7:30 am - 3:30 pm	7:30 am - 3:30 pm	7:30 am - 3:30 pm	7:30 am - 3:30 pm	7:30 am - 3:30 pm	8:30 am - 3:45 pm	8:30 am - 3:45 pm
+240	Farm Stand	4	36	1.0	Farmers Market, American (Traditional)	34	Closed	Closed	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm
+241	My Favorite Bagel	4.5	15	1.0	Bagels, Coffee & Tea, Pizza	5	7:00 am - 5:30 pm	7:00 am - 5:30 pm	7:00 am - 5:30 pm	7:00 am - 6:30 pm	7:00 am - 2:00 pm	Closed	7:00 am - 5:30 pm
+242	Moe's Southwest Grill	3.5	100	1.0	Mexican, Tex-Mex	59	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+243	Vinnie's Pizzeria	4	642	1.0	Pizza, Vegan, Italian	428	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 3:00 am	11:00 am - 3:00 am	11:00 am - 12:00 am
+244	Perista Restaurant	2.5	34	1.0	Cafes, American (Traditional), Coffee & Tea	50	5:00 am - 8:00 pm	5:00 am - 8:00 pm	5:00 am - 8:00 pm	5:00 am - 8:00 pm	5:00 am - 8:00 pm	5:00 am - 8:00 pm	5:00 am - 8:00 pm
+245	Tandoor Palace	3.5	161	1.0	Indian	63	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm
+246	Desi Deli Indian Restaurant	3.5	110	1.0	Indian, Bubble Tea, Breakfast & Brunch	25	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+247	Dil-e Punjab Deli	4.5	185	1.0	Indian, Vegetarian	39	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+248	Burrito House	2	38	1.0	Mexican	4							
+249	Brisas Del Caribe	3.5	165	1.0	Dominican	115	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+250	Chelsea Golden Wok	3	50	1.0	Chinese	5							
+251	Great Burrito	4	239	1.0	Pizza, Mexican	112	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+252	Uncle Gussy's	4.5	445	1.0	Food Trucks, Greek	216	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm	Closed	Closed
+253	Sal, Kris, & Charlie's Deli	4.5	1009	1.0	Delis, Sandwiches	527	5:30 am - 8:00 pm	5:30 am - 8:00 pm	5:30 am - 8:00 pm	5:30 am - 8:00 pm	5:30 am - 8:00 pm	5:30 am - 8:00 pm	5:30 am - 3:00 pm
+254	Rosario's Pizza	3.5	275	1.0	Pizza	95	12:00 pm - 3:00 am	12:00 pm - 3:00 am	12:00 pm - 3:00 am	12:00 pm - 4:00 am	12:00 pm - 5:00 am	12:00 pm - 5:00 am	Closed
+255	Greek Town Gyros	4.5	191	1.0	Greek, Mediterranean	69	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	11:00 am - 8:30 pm	12:00 pm - 8:30 pm	Closed
+256	The China Star	3	61	1.0	Chinese	16							
+257	Chipotle Mexican Grill	3.5	126	1.0	Mexican, Fast Food	52	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm
+258	Bagel Pub	3.5	279	1.0	Breakfast & Brunch, Bagels, Coffee & Tea	179	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	7:00 am - 6:00 pm	7:00 am - 6:00 pm
+259	Cafe Exchange	2.5	80	1.0	Sandwiches, Sushi Bars, Mexican	18	6:00 am - 5:00 pm	6:00 am - 5:00 pm	6:00 am - 5:00 pm	6:00 am - 5:00 pm	6:00 am - 5:00 pm	7:00 am - 3:00 pm	Closed
+260													
+261	Artichoke Basille's Pizza	3.5	861	1.0	Pizza	584	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am
+262	Barosa Restaurant - Mineola	4	50	1.0	Pizza, Italian	53	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	Closed
+263	Primavera's Cafe-Ristorante-Pizzeria	3.5	45	1.0	Italian, Pizza	18	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	10:30 am - 10:00 pm	12:00 pm - 9:00 pm
+264	Babo Teahouse	3	252	1.0	Coffee & Tea, Bubble Tea, Asian Fusion	172	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 9:00 pm
+265	Mamoun's Falafel	4	1149	1.0	Middle Eastern, Falafel	450	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 12:00 am
+266	Thanh Huong Restaurant	4	124	1.0	Vietnamese	124	10:00 am - 9:00 pm	10:00 am - 9:00 pm	Closed	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm
+267	McDonald's	2.5	50	1.0	Fast Food, Burgers, Coffee & Tea	89							
+268	Monty Q's	3	222	1.0	Pizza, Salad	87	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm
+269	La Rosetta Cafe	4.5	27	1.0	Pizza, Cafes	40	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+270	KFC	1.5	20	1.0	Fast Food, Chicken Wings, Chicken Shop	44							
+271	City Gourmet Cafe	3.5	71	1.0	Sandwiches, Salad, Burgers	29	8:30 am - 6:00 pm	8:30 am - 6:00 pm	8:30 am - 6:00 pm	8:30 am - 6:00 pm	8:30 am - 6:00 pm	8:30 am - 6:00 pm	8:30 am - 6:00 pm
+272	White Castle	3.5	142	1.0	Fast Food, Burgers	137	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours	Open 24 hours
+273	Haandi	3.5	293	1.0	Indian, Pakistani, Halal	159	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am
+274	The Kati Roll Company	4	1489	1.0	Indian, Halal	759	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 5:00 am	12:00 pm - 5:00 am	12:00 pm - 9:00 pm
+275	Curry Express	3.5	225	1.0	Indian, Pakistani	140	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am
+276	E Noodle House	3.5	55	1.0	Chinese, Noodles, Hong Kong Style Cafe	107	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+277	Falafull	4.5	19	1.0	Food Trucks, Middle Eastern	30	Closed	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	Closed
+278	Kashmir 9 - Cuisine of Pakistan	3.5	187	1.0	Halal, Pakistani, Indian	107	10:00 am - 10:30 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am	10:00 am - 4:00 am
+279	Grand Avenue Pizza	3.5	124	1.0	Pizza, Italian	57	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 1:00 am	10:30 am - 1:00 am	10:30 am - 1:00 am	10:30 am - 1:00 am	11:00 am - 12:00 am
+280	Terrace Street Café	5	162	1.0	Sandwiches, Breakfast & Brunch	159	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	Closed
+281	Pio Hot Bagels	3.5	32	1.0	Bagels, Delis	19	5:00 am - 6:00 pm	5:00 am - 6:00 pm	5:00 am - 6:00 pm	5:00 am - 6:00 pm	5:00 am - 6:00 pm	5:00 am - 4:00 pm	5:00 am - 2:00 pm
+282	Papaya Dog	3.5	62	1.0	Hot Dogs	25							
+283	Artichoke Basille's Pizza	4	3879	1.0	Pizza	1989	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am	11:00 am - 5:00 am
+284	Hastings Center Restaurant	2.5	33	1.0	Diners	5	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 9:30 pm
+285	Lao Bei Fang Dumpling House	4	556	1.0	Chinese, Noodles	762	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+286	Jimmy's House	3.5	115	1.0	Chinese, Noodles	96	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	12:00 pm - 10:00 pm
+287	Tommy's Grill & Pizza	2.5	93	1.0	Pizza	25	8:30 am - 2:00 am	8:30 am - 2:00 am	8:30 am - 2:00 am	8:30 am - 2:00 am	8:30 am - 3:59 am	8:30 am - 3:59 am	8:30 am - 2:00 am
+288	Liberty Deli & Pizza	2.5	48	1.0	Delis, Pizza	54	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	7:00 am - 6:00 pm	8:00 am - 4:00 pm
+289	NY Pizza Suprema	4	1892	1.0	Pizza	1387	10:30 am - 12:00 am	10:30 am - 12:00 am	10:30 am - 12:00 am	10:30 am - 12:00 am	10:30 am - 12:00 am	10:30 am - 12:00 am	10:30 am - 12:00 am
+290	Mi Gente Cafe	4.5	78	1.0	Latin American, Caribbean	61	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	6:00 am - 6:00 pm	Closed
+291	Lucky Foo	4	87	1.0	Chinese, Noodles	115	Closed	Closed	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 9:00 pm
+292	Sacco Pizza	4	388	1.0	Pizza	122	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+293	Tian Jin Dumpling House	4.5	267	1.0	Chinese, Food Stands	458	10:00 am - 9:30 pm	10:00 am - 9:30 pm	10:00 am - 9:30 pm	10:00 am - 9:30 pm	10:00 am - 9:30 pm	10:00 am - 9:30 pm	10:00 am - 9:30 pm
+294	Mexico Deli Restaurant	4.5	176	1.0	Mexican, Delis, Juice Bars & Smoothies	229	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm
+295	McDonald's	1.5	51	1.0	Fast Food, Burgers, Coffee & Tea	85							
+296	Los Tres Chilitos	4	194	1.0	Mexican	178	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm
+297	Burger King	2.5	18	1.0	Fast Food, Burgers	54							
+298	Pita Palace	5	216	1.0	Middle Eastern, Falafel	228	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 9:30 pm
+299	Pho Hana	3.5	79	1.0	Vietnamese	70							
+300	Amélie	4.5	2556	2.0	French, Wine Bars	2393	4:00 pm - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	11:00 am - 12:00 am
+301	Otis	5	235	2.0	American (New), Cocktail Bars	253	Closed	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 1:00 am	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm
+302	Anytime	5	874	2.0	Korean, American (New), Tapas/Small Plates	2373	6:00 pm - 2:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	6:00 pm - 3:30 am	6:00 pm - 3:30 am	6:00 pm - 2:00 am
+303	Mominette	4	642	2.0	French, Cocktail Bars, Seafood	514	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	10:30 am - 11:30 pm	10:30 am - 10:30 pm
+304	Bea	4	2366	2.0	American (New), Cocktail Bars	2070	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	11:00 am - 4:00 pm	11:00 am - 4:00 pm
+305	Mori	4.5	81	2.0	Asian Fusion, French, Izakaya	274	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm
+306	French Louie	4	357	2.0	French	392	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:30 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+307	Atrium Dumbo	3.5	651	2.0	American (New), French	772	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+308	The Highwater	4	308	2.0	American (New), Hawaiian, Tiki Bars	724							
+309	Fine Food Cuisine	4.5	56	2.0	American (New)	59	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 12:00 am	7:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 11:00 am
+310	Travesias	4	467	2.0	Latin American	891	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	11:00 am - 11:00 pm
+311	Tavern 157	4.5	347	2.0	Wine Bars, Asian Fusion, Tapas/Small Plates	958	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 3:00 am	4:00 pm - 3:00 am	12:00 pm - 2:00 am
+312	The Hill Bistro	4.5	166	2.0	American (Traditional), Wine Bars	339	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 2:00 am	11:00 am - 4:00 pm	11:00 am - 4:00 pm
+313	DiWine	4	761	2.0	American (New)	1099	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 4:00 am	11:00 am - 4:00 am	11:00 am - 2:00 am
+314	Les Enfants de Boheme	4.5	220	2.0	French, Cocktail Bars, Wine Bars	266	11:45 am - 11:45 pm	11:45 am - 1:00 am	11:45 am - 2:00 am	11:45 am - 2:00 am	11:45 am - 3:00 am	10:00 am - 2:00 am	10:00 am - 12:00 am
+315	Hudson Garden Grill	4	145	2.0	American (New)	353	Closed	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 5:00 pm	11:30 am - 5:00 pm
+316	Trattoria Trecolori	4	2227	2.0	Italian	1496	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:15 pm	12:00 pm - 11:15 pm	12:00 pm - 10:30 pm
+317	Tabaré	4	623	2.0	Latin American	532	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 11:00 pm
+318	Moloko	4.5	159	2.0	Cocktail Bars, American (New), Beer, Wine & Spirits	74	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 4:00 am	12:00 pm - 4:00 am	12:00 pm - 2:00 am
+319	Sojourn	4	600	2.0	American (New), Tapas/Small Plates, Breakfast & Brunch	320	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	12:00 pm - 3:30 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm
+320	PMF Pardon My French	4	928	2.0	French, Cocktail Bars, Breakfast & Brunch	1331	5:30 pm - 2:00 am	5:30 pm - 2:00 am	5:30 pm - 2:00 am	5:30 pm - 4:00 am	5:30 pm - 4:00 am	11:00 am - 3:45 pm	11:00 am - 3:45 pm
+321	Casa Del Chef	4.5	206	2.0	American (New), Desserts, Wine Bars	463	Closed	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 10:00 pm
+322	District Social	4	630	2.0	Bars, American (New)	708	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 4:00 am	11:30 am - 4:00 am	11:30 am - 2:00 am	11:30 am - 12:30 am
+323	Aurora	4	575	2.0	Italian, Comfort Food	448	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+324	The Saint Austere	4.5	373	2.0	Tapas Bars, Italian	282	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 11:00 pm
+325	Le Sia	4	224	2.0	Cajun/Creole, Seafood, Chinese	474	4:30 pm - 1:00 am	4:30 pm - 1:00 am	4:30 pm - 1:00 am	4:30 pm - 1:00 am	4:30 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 12:00 am
+326	Gyu-Kaku Japanese BBQ	4.5	481	2.0	Barbeque, Japanese, Asian Fusion	1464	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 10:30 pm
+327	Ambrosio Italian Restaurant & Banquet Hall	4.5	45	2.0	Italian	411	Closed	2:00 pm - 10:00 pm	2:00 pm - 10:00 pm	2:00 pm - 10:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	1:00 pm - 9:00 pm
+328	Modern Love Brooklyn	4.5	437	2.0	Salad, Cocktail Bars, American (Traditional)	673	Closed	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+329	Fishmarket Restaurant	4.5	531	2.0	Seafood, Chinese, Asian Fusion	539	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	1:00 pm - 11:30 pm	1:00 pm - 11:30 pm
+330	Cellar 335	4.5	468	2.0	Cocktail Bars, Tiki Bars, Tapas/Small Plates	817	Closed	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	Closed
+331	Lillo Cucina Italiana	5	107	2.0	Cafes, Italian	131	Closed	10:30 am - 9:00 pm	10:30 am - 9:00 pm	10:30 am - 9:00 pm	10:30 am - 9:30 pm	10:30 am - 9:30 pm	11:00 am - 8:30 pm
+332	The Cabin NYC	4	120	2.0	American (New), Cocktail Bars, Breakfast & Brunch	204	Closed	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 12:00 am
+333	Momofuku Nishi	4	562	2.0	Italian, American (New)	1700	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+334	Biyou	4	100	2.0	Cajun/Creole, Southern	163	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 9:00 pm
+335	Legasea Seafood Brasserie	4	257	2.0	Seafood	771	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+336	Lighthouse	4	253	2.0	Bars, Modern European, American (New)	127	Closed	11:00 am - 11:00 pm	11:00 am - 4:00 pm	11:00 am - 4:00 pm	11:00 am - 4:00 pm	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm
+337	Toloache 50	4	1858	2.0	Mexican	1348	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 10:00 pm
+338	Pisticci	4	816	2.0	Italian, Breakfast & Brunch	424	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+339	Okonomi	4.5	440	2.0	Japanese, Seafood	989	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm
+340	BLVD Bistro	4	751	2.0	American (Traditional), Soul Food, Breakfast & Brunch	675	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm
+341	Aperitif Bistro Bayside	4	424	2.0	French, Bars, Caterers	757							
+342	Risbo	4	142	2.0	French, Bars	196	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 10:30 pm
+343	Hart's Restaurant	4.5	84	2.0	American (New)	89	Closed	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 11:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+344	Society Cafe	4	141	2.0	American (New), Cafes, Breakfast & Brunch	335	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 10:00 pm
+345	Pates Et Traditions	4.5	819	2.0	French, Desserts	817	12:00 pm - 10:00 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm
+346	Patricia's	4	458	2.0	Pizza, Italian, Bars	378	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	12:00 pm - 11:00 pm
+347	View of the World Terrace Club	4	150	2.0	American (New), Bars, Steakhouses	321	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 10:00 pm
+348	Cabana	4	922	2.0	Latin American, Cuban, Caribbean	1106	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 11:00 pm
+349	Piccante	4.5	155	2.0	Italian	265	Closed	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm
+350	Acqua Restaurant NYC	4	357	2.0	Seafood, Italian, Wine Bars	340	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm
+351	Angkor Cambodian Bistro	4.5	261	2.0	Cambodian, Salad, Seafood	534	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	4:00 pm - 10:00 pm
+352	Lido	4	940	2.0	Italian, Breakfast & Brunch, Cocktail Bars	724	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 10:00 pm
+353	Hooked JC	4.5	476	2.0	Seafood, Salad, American (Traditional)	582	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+354	Bricolage	4	450	2.0	Vietnamese, Gastropubs, Cocktail Bars	605	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+355	Table d'Hôte	4	145	2.0	French	136	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+356	Hao Noodle Chelsea	4.5	276	2.0	Chinese, Barbeque, Noodles	672	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm
+357	Osteria 106	4.5	93	2.0	Italian	51	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+358	Fish Cheeks	4.5	464	2.0	Seafood, Thai, Live/Raw Food	1626	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm
+359	Da Claudio	4	419	2.0	Italian, Cocktail Bars	479	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm
+360	Ruffian	4.5	192	2.0	Wine Bars, Tapas/Small Plates	237	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	3:00 pm - 10:00 pm
+361	Trattoria Cerbone	3.5	45	2.0	Italian, Lounges	29	Closed	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	1:00 pm - 9:00 pm
+362	Sons of Essex	4	1193	2.0	American (New), Bars, Breakfast & Brunch	955	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 4:00 am	11:00 am - 4:00 am	11:00 am - 7:00 pm
+363	La Nonna Ristorante & Bar	4	275	2.0	Italian, Bars	342	Closed	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	12:00 pm - 11:30 pm	12:00 pm - 10:00 pm
+364	Carmine's Italian Restaurant - Times Square	4	3571	2.0	Italian, Caterers, Venues & Event Spaces	3450							
+365	Mariella	4.5	317	2.0	Italian, Gluten-Free, Salad	229	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:00 pm	11:00 am - 11:00 pm	10:30 am - 10:00 pm
+366	Frankies 457 Spuntino	4	771	2.0	Italian, Sandwiches, Wine Bars	368	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+367	Circulo Espanol	4.5	31	2.0	Spanish	99	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+368	Rose Water	4	645	2.0	American (New), Breakfast & Brunch	334	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	9:30 am - 3:00 pm	9:30 am - 3:00 pm
+369	The Castello Plan	4	316	2.0	American (New), Breakfast & Brunch, Cocktail Bars	232	4:00 pm - 1:00 am	4:00 pm - 1:00 am	4:00 pm - 1:00 am	4:00 pm - 1:00 am	4:00 pm - 1:00 am	11:00 am - 1:00 am	12:00 pm - 1:00 am
+370	Daxi Sichuan 大喜	4	254	2.0	Szechuan	998	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+371	Imperial Palace	4	417	2.0	Seafood, Cantonese	932	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	1:00 pm - 10:00 pm
+372	June	4	171	2.0	Wine Bars, Tapas/Small Plates, American (New)	187	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 1:00 am	2:00 pm - 1:00 am	2:00 pm - 12:00 am
+373	Cafe Luluc	4	1340	2.0	French, Breakfast & Brunch, Cafes	1345	8:30 am - 3:30 pm	8:30 am - 3:30 pm	8:30 am - 3:30 pm	8:30 am - 3:30 pm	8:30 am - 3:30 pm	8:30 am - 4:30 pm	8:30 am - 4:30 pm
+374	China Blue	4	662	2.0	Shanghainese, Dim Sum	1257	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 11:00 pm	11:30 am - 10:30 pm
+375	Eataly NYC Flatiron	4	5368	2.0	Italian, Grocery, Cafes	8502	9:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 11:00 pm
+376	Mayfield	4	509	2.0	American (New), Breakfast & Brunch	437	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:30 pm	5:00 pm - 11:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+377	Chela Modern Mexican	4.5	367	2.0	Lounges, Mexican, Breakfast & Brunch	586	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+378	Vite Vinosteria	4.5	558	2.0	Italian, Wine Bars	630	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm
+379	Esme	4.5	321	2.0	American (New), Cocktail Bars	321	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+380	Uncle Peter's	4	199	2.0	Italian, Spanish, American (New)	278	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:00 pm
+381	Le Botaniste	4.5	116	2.0	Vegetarian, Vegan, Wine Bars	208	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm
+382	RDV Rendezvous	4	153	2.0	French, Wine Bars, Desserts	170	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+383	The Brazen Tavern	4.5	345	2.0	Bars, American (New)	354	4:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 12:00 am
+384	L’Argot	4.5	39	2.0	Wine Bars, American (New)	67	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am
+385	Sunday in Brooklyn	4	661	2.0	American (New), Breakfast & Brunch, Cocktail Bars	1564	8:30 am - 10:00 pm	8:30 am - 10:00 pm	8:30 am - 10:00 pm	8:30 am - 10:00 pm	8:30 am - 11:00 pm	8:30 am - 11:00 pm	8:30 am - 10:00 pm
+386	Aunt Jake's	4	1340	2.0	Italian, Wine Bars, Pasta Shops	1505	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+387	Addictive Wine and Tapas Bar	4.5	189	2.0	Wine Bars, Tapas Bars, Breakfast & Brunch	328	Closed	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 1:00 am	4:00 pm - 1:00 am	4:00 pm - 11:00 pm
+388	Jora Restaurant & Bar	4.5	548	2.0	Peruvian, Cocktail Bars, Tapas Bars	902	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+389	Miramar	4	178	2.0	Seafood, Mediterranean	226	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+390	Testo	4.5	182	2.0	Italian, Gluten-Free, Breakfast & Brunch	91	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:30 pm
+391	Bar Moga	4	150	2.0	Cocktail Bars, Japanese	333	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 12:00 am
+392	Angeletto Restaurant	4.5	173	2.0	Italian	239	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+393	B2 Harlem	4	245	2.0	Seafood, Wine Bars, Breakfast & Brunch	317	Closed	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 10:00 pm
+394	Brazeiro Churrascaria	4	290	2.0	Brazilian, Steakhouses	251	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+395	Saggio	4	583	2.0	Italian	267	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 12:00 am	10:00 am - 12:00 am	10:00 am - 11:00 pm
+396	ROKC	4.5	372	2.0	Ramen, Seafood, Cocktail Bars	632	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 11:00 pm
+397	Szechuan Mountain House	4	308	2.0	Szechuan, Seafood	1309	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+398	Basilio Inn	4.5	88	2.0	Italian, American (New)	127							
+399	Jadis	4	487	2.0	French, Wine Bars	195	5:00 pm - 11:30 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 1:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 11:30 pm
+400	Nicandra's	4.5	169	2.0	Breakfast & Brunch, Pasta Shops	223	Closed	6:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:30 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm
+401	Bar B	4.5	171	2.0	Italian, Bars, Tapas Bars	264	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am
+402	Fiore	4	410	2.0	Italian, Breakfast & Brunch, Diners	214	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+403	Laboratorio Kitchen	4.5	266	2.0	American (New), Gluten-Free, Italian	344	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	4:00 pm - 9:00 pm
+404	Ponty Bistro	4	379	2.0	French, Senegalese	358	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 1:00 am	9:00 am - 1:00 am	9:00 am - 12:00 am
+405	JeJu Noodle Bar	4.5	437	2.0	Korean, Noodles	1316	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+406	The Door	3.5	791	2.0	Caribbean, Desserts, Seafood	684	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 10:00 pm	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 10:00 pm
+407	Trading Post	4	401	2.0	American (Traditional), Bars, Seafood	387	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 10:00 pm
+408	12 Chairs	4	477	2.0	Middle Eastern, American (Traditional), Breakfast & Brunch	339	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 11:00 pm
+409	Le Parisien	4	926	2.0	French, Salad, Breakfast & Brunch	822	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+410	Ortobello Restaurant	4	233	2.0	Italian	291	4:00 pm - 10:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	1:00 pm - 9:00 pm
+411	Loosie's Kitchen & Cafe	4	114	2.0	American (Traditional), Breakfast & Brunch	290	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am
+412	Dante	4	285	2.0	Bars, Italian	386	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am
+413	Beets and Carrots	4.5	144	2.0	American (New)	434	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 3:00 pm	9:00 am - 10:00 pm	Closed
+414	Tios Bistro	3.5	180	2.0	Bars, Latin American	191	Closed	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	3:00 pm - 12:00 am	10:00 am - 12:00 am	11:00 am - 11:00 pm
+415	The Farm On Adderley	4	1149	2.0	American (New), Breakfast & Brunch, Cocktail Bars	916	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 10:00 pm
+416	SAMUI	4	158	2.0	Thai, Asian Fusion, Seafood	403	Closed	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:00 pm	4:30 pm - 11:00 pm	4:30 pm - 10:00 pm
+417	Max Soha	4	404	2.0	Italian	206	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am
+418	Felice	4	333	2.0	Italian, Wine Bars	406	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm
+419	Aita Trattoria	4	168	2.0	Italian	163	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 10:00 pm
+420	Burger & Lobster	4	5257	2.0	Seafood, Burgers, American (New)	6125	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm
+421	XYST	4.5	271	2.0	Vegan, Mediterranean, Vegetarian	611	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 10:00 pm
+422	Yves	4	57	2.0	Cocktail Bars, American (New), French	127	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm
+423	Jane	4	3095	2.0	Breakfast & Brunch, American (New), Bars	2641	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 10:00 pm
+424	Death Ave	3.5	552	2.0	Greek, American (New), Gastropubs	430	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+425	Ippudo NY	4	9839	2.0	Ramen	9808	11:00 am - 3:30 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 10:00 pm
+426	Samakmak Seafood	4.5	72	2.0	Mediterranean, Seafood	59	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm
+427	The Harrow New York	4.5	184	2.0	American (New), Cocktail Bars, Wine Bars	261	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 12:00 am	4:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+428	Ltauha Restaurant	4.5	350	2.0	American (New), Tapas Bars, Diners	387	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+429	Lucky Chen - 五锦轩	4.5	110	2.0	Szechuan, Seafood	355	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:30 am - 10:30 pm
+430	Sorellina	3.5	233	2.0	Wine Bars, Italian	226	Closed	4:30 pm - 10:00 pm	4:30 pm - 10:00 pm	4:30 pm - 10:30 pm	4:30 pm - 12:00 am	3:00 pm - 12:00 am	11:00 am - 10:00 pm
+431	The Queensboro	4	199	2.0	Gastropubs, American (New), Breakfast & Brunch	302	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+432	The Daisy	3.5	225	2.0	Cocktail Bars, American (New), Gastropubs	206	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am	11:30 am - 4:00 am	11:30 am - 2:00 am
+433	Elia	4	154	2.0	Mediterranean, Seafood	407	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	5:00 pm - 11:00 pm	10:00 am - 2:00 pm
+434	Pop's Cocina Bar	4	93	2.0	American (Traditional), Spanish, Seafood	98	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 2:00 am	8:00 am - 2:00 am	8:00 am - 11:00 pm
+435	Verlaine	4	1398	2.0	Tapas/Small Plates, Lounges, Cocktail Bars	657	5:00 pm - 12:30 am	5:00 pm - 12:30 am	5:00 pm - 12:30 am	5:00 pm - 1:00 am	5:00 pm - 2:30 am	5:00 pm - 2:30 am	5:00 pm - 12:30 am
+436	Shuka	4	375	2.0	Mediterranean, Cocktail Bars	601	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	10:30 am - 3:00 pm	10:30 am - 3:00 pm
+437	Crabtree's Restaurant	4.5	213	2.0	Mediterranean, Seafood	324	Closed	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 10:00 pm	11:30 am - 3:00 pm
+438	Thai Villa	4.5	2852	2.0	Thai, Asian Fusion	6270	11:30 am - 3:15 pm	11:30 am - 3:15 pm	11:30 am - 3:15 pm	11:30 am - 3:15 pm	11:30 am - 3:15 pm	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm
+439	Ousia	4	210	2.0	Mediterranean, Greek	321	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+440	Alma Restaurant	3.5	479	2.0	Mexican	314	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+441	Gelso & Grand	4.5	830	2.0	Italian, Pasta Shops, Pizza	1342	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 1:00 am	11:00 am - 11:00 pm
+442	Da Francesco	4	110	2.0	Italian	240	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+443	The Bluebell Cafe	4	594	2.0	American (New), Breakfast & Brunch	409	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm
+444	The Brass Rail	3.5	459	2.0	American (New), Bars	321	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:00 am - 10:00 pm
+445	The Smith	4	2485	2.0	American (New), Breakfast & Brunch, Cocktail Bars	3088	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 1:00 am	9:00 am - 1:00 am	9:00 am - 12:00 am
+446	Ornella Trattoria Italiana	4	857	2.0	Italian, Caterers	733							
+447	Julia's	4.5	189	2.0	Wine Bars, American (New)	248	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 12:00 am
+448	San Marino Ristorante	4	134	2.0	Italian, Desserts, Salad	183	11:45 am - 4:00 pm	11:45 am - 4:00 pm	11:45 am - 4:00 pm	11:45 am - 4:00 pm	11:45 am - 4:00 pm	4:45 pm - 11:00 pm	4:45 pm - 11:00 pm
+449	Gargiulo's	3.5	229	2.0	Italian, Venues & Event Spaces, Seafood	209	12:00 pm - 10:00 pm	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 9:00 pm
+450	The Loyal	4	177	2.0	American (New), Wine Bars, Cocktail Bars	286	5:30 pm - 1:00 am	5:30 pm - 1:00 am	5:30 pm - 1:00 am	5:30 pm - 1:00 am	5:30 pm - 1:00 am	10:30 am - 2:30 pm	10:30 am - 2:30 pm
+451	The View Grill	4.5	84	2.0	American (New)	182	Closed	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm
+452	Della	4	112	2.0	Mediterranean, Italian, Cocktail Bars	78	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm
+453	VINATERÍA	4	419	2.0	Italian, Spanish, Seafood	422	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	10:30 am - 12:00 am	10:30 am - 10:00 pm
+454	Ella Kitchen & Bar	4	470	2.0	Tapas/Small Plates, American (New), Mediterranean	415	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 12:00 am	11:00 am - 12:00 am	10:00 am - 10:00 pm
+455	Rabbit House Japanese Tapas & Sake Bar	4.5	216	2.0	Tapas Bars, Asian Fusion, Izakaya	486	Closed	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	12:30 pm - 4:00 pm	12:30 pm - 4:00 pm
+456	Libertador Steakhouse - Brooklyn	4	221	2.0	Argentine, American (New)	200	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+457	a.cafe	4	253	2.0	Cafes, Breakfast & Brunch, American (New)	260							
+458	Ayza Wine & Chocolate Bar	4	1591	2.0	Wine Bars, Desserts, Mediterranean	2240	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 12:00 am
+459	Brindle Room	4	998	2.0	American (New), Bars, Breakfast & Brunch	804	5:00 pm - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+460	Psari Seafood Restaurant & Bar	4	549	2.0	Seafood, Greek, Bars	752	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 12:00 am
+461	La Cabana Rodriguez - Rodriguez Fried Chicken	3.5	68	2.0	Latin American, American (Traditional)	45	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am	11:00 am - 4:00 am
+462	Fuku	3.5	172	2.0	Comfort Food, American (New)	276	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	Closed	Closed
+463	Tony's Di Napoli	4	1991	2.0	Italian	1852	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 11:00 pm
+464	O Lavrador	4	226	2.0	Portuguese, Bars, Spanish	397	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+465	Cebu Bar & Bistro	4	657	2.0	Breakfast & Brunch, Burgers, American (New)	1027	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	10:30 am - 12:00 am	10:30 am - 11:00 pm
+466	Chez Moi	4	354	2.0	French, Desserts, Cocktail Bars	271	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	12:00 pm - 1:00 am	10:00 am - 1:00 am	10:00 am - 12:00 am
+467	Yellow Magnolia Café	4	67	2.0	Cafes	98	Closed	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm	11:00 am - 5:00 pm
+468	Beso	4	490	2.0	Spanish, Tapas Bars, Bars	393	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	12:00 pm - 10:00 pm
+469	Bread & Brine	4.5	99	2.0	Seafood, Cocktail Bars	136	5:00 pm - 10:00 pm	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 9:00 pm
+470	Miznon North	4	81	2.0	Mediterranean, Sandwiches, Breakfast & Brunch	141	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+471	Fragole Ristorante	4	324	2.0	Italian, Breakfast & Brunch, Wine Bars	333	5:00 pm - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+472	Bistro Les Amis	4	355	2.0	French, Salad, Breakfast & Brunch	304	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 12:00 am
+473	VinoTapa	4	376	2.0	Tapas Bars, Wine Bars, Spanish	486	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am
+474	Danish Athletic Club	4	6	2.0	Supper Clubs	11							
+475	Valenca Restaurant	4	860	2.0	Steakhouses, Portuguese, Barbeque	1027	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	12:00 pm - 10:00 pm
+476	Thursday Kitchen	4.5	1234	2.0	Korean, American (New), Tapas/Small Plates	3144	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 11:00 pm
+477	Fino Wine & Tapas	4	366	2.0	Tapas Bars, Wine Bars	386	4:30 pm - 11:30 pm	4:30 pm - 11:30 pm	4:30 pm - 11:30 pm	4:30 pm - 12:30 am	4:30 pm - 12:30 am	4:30 pm - 12:30 am	4:00 pm - 10:00 pm
+478	Candle 79	4	1305	2.0	Vegetarian, Vegan, Gluten-Free	952	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 4:00 pm
+479	Barosa	4	328	2.0	Italian, Seafood, Pizza	255	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 9:00 pm
+480	Renaissance Harlem	4	175	2.0	French, American (New), Seafood	216	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 1:00 am
+481	SHI	3.5	787	2.0	Asian Fusion, Sushi Bars, Japanese	796							
+482	Uva	4	2265	2.0	Italian, Wine Bars	1491	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 1:00 am
+483	Pasta-Pasta	4	60	2.0	Italian	24							
+484	Freemans	4	2012	2.0	Breakfast & Brunch, Lounges, American (Traditional)	1794	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm	10:00 am - 11:30 pm	10:00 am - 11:30 pm
+485	Luna Restaurant	4	142	2.0	Italian, Bars	255	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	Closed
+486	Grazie	4	427	2.0	Italian	373	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+487	Don Coqui	3	1533	2.0	Latin American, Bars	1589	3:00 pm - 12:00 am	3:00 pm - 12:00 am	3:00 pm - 12:00 am	3:00 pm - 3:00 am	3:00 pm - 4:00 am	3:00 pm - 4:00 am	11:00 am - 12:00 am
+488	BKNY Thai Restaurant	4	1217	2.0	Thai, Seafood, Soup	1678	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+489	The Pandering Pig	4	108	2.0	American (New), French, Wine Bars	83	Closed	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+490	Butcher Bar	4	1912	2.0	Barbeque, Burgers	1758							
+491	Buttermilk Channel	4	1845	2.0	American (New), Breakfast & Brunch	1378	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+492	Izakaya Juraku	4.5	77	2.0	Bars, Izakaya, Ramen	228	Closed	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	3:00 pm - 11:00 pm	3:00 pm - 10:00 pm
+493	Ipanema Restaurant	4	1291	2.0	Brazilian, Portuguese, Steakhouses	1174	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+494	Saffron Restaurant	4	302	2.0	Spanish, Mediterranean, Tapas/Small Plates	370	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 9:00 pm
+495	Miriam	4	963	2.0	Wine Bars, Mediterranean, Breakfast & Brunch	553	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 10:00 pm
+496	Sabry's	4.5	217	2.0	Seafood, Middle Eastern	320	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+497	Smoke Jazz & Supper Club	4	362	2.0	Jazz & Blues, American (New)	255	6:00 pm - 3:00 am	6:00 pm - 3:00 am	6:00 pm - 3:00 am	6:00 pm - 3:00 am	6:00 pm - 3:00 am	6:00 pm - 3:00 am	11:00 am - 3:00 am
+498	SalaThai Restaurant	4.5	261	2.0	Thai	442	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm	12:00 pm - 3:45 pm
+499	Midnights	4	208	2.0	Bars, American (New)	313	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 4:00 am	11:30 am - 4:00 am	11:30 am - 12:00 am
+500	La Vela Dining & Bar	4	160	2.0	Italian, Bars, Diners	206	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+501	Au Za'atar	4	739	2.0	Wine Bars, Lebanese, Mediterranean	770	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 11:30 pm
+502	Nisi	3.5	95	2.0	Breakfast & Brunch, American (Traditional), Seafood	76	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am
+503	Juniper Bar	4	535	2.0	Cocktail Bars, American (New), Breakfast & Brunch	542	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	12:00 pm - 12:00 am
+504	Hakata Tonton	4	983	2.0	Japanese	2595	5:30 pm - 10:45 pm	5:30 pm - 10:45 pm	5:30 pm - 10:45 pm	5:30 pm - 10:45 pm	5:30 pm - 10:45 pm	5:30 pm - 10:45 pm	5:30 pm - 10:45 pm
+505	The Smith	4	880	2.0	American (New), Breakfast & Brunch, Cocktail Bars	1401	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 1:00 am	9:30 am - 1:00 am	9:30 am - 12:00 am
+506	Bamonte's	4	327	2.0	Italian	189	12:00 pm - 10:00 pm	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	1:00 pm - 10:00 pm
+507	Shinka Ramen & Sake Bar	4.5	269	2.0	Ramen, Noodles, Cocktail Bars	753	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	11:30 am - 2:30 pm	11:30 am - 2:30 pm
+508	Ravagh Persian Grill	4	276	2.0	Persian/Iranian, Mediterranean	240	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:30 pm
+509	Giano Restaurant	4.5	559	2.0	Italian	379	Closed	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 10:30 pm
+510	Suzuki Shokudo	4.5	110	2.0	Japanese, Sushi Bars	196	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	4:30 pm - 10:30 pm	Closed
+511	Nickel & Diner	4	403	2.0	American (New), Coffee & Tea, Cocktail Bars	881	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	9:30 am - 11:00 pm	9:30 am - 5:00 pm
+512	Imli Urban Indian Food	4.5	169	2.0	Indian, Breakfast & Brunch, Cocktail Bars	230	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 4:00 pm	11:00 am - 4:00 pm
+513	Katz's Delicatessen	4	11667	2.0	Delis, Sandwiches, Caterers	10712							
+514	Red Hot Hot Pot	4	66	2.0	Hot Pot, Chinese	59	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+515	Fonda Park Slope	4	783	2.0	Mexican, Salad, Breakfast & Brunch	406	4:00 pm - 10:00 pm	4:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 10:00 pm
+516	Terravita	4.5	125	2.0	Breakfast & Brunch, American (Traditional), Wine Bars	230	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 2:00 am
+517	Caracas Arepa Bar	4	2539	2.0	Venezuelan, Bars	1126	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+518	Palo Santo	4	476	2.0	Latin American, Caribbean, Breakfast & Brunch	314	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 11:00 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+519	The Thirsty Koala	4.5	1048	2.0	Australian, Bars	1280	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 10:00 pm
+520	Manetta's Ristorante	4	363	2.0	Italian	277	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	3:30 pm - 11:00 pm	Closed
+521	Maison Pickle	4	826	2.0	Cocktail Bars, Comfort Food, Sandwiches	1648	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 11:00 pm
+522	The Seneca	4	34	2.0	Bars, Burgers, Chicken Wings	34	4:00 pm - 2:00 am	4:00 pm - 2:00 am	4:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 4:00 am	10:00 am - 4:00 am	10:00 am - 2:00 am
+523	Seamores	4	694	2.0	Seafood, Cocktail Bars	1353	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+524	Guadalupe Restaurant	4	639	2.0	Mexican, Steakhouses, Seafood	709	3:00 pm - 12:00 am	3:00 pm - 12:00 am	3:00 pm - 12:00 am	3:00 pm - 12:00 am	2:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am
+525	West Shore Inn Steakhouse	4	256	2.0	Steakhouses, Seafood, American (Traditional)	253	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	12:00 pm - 10:00 pm
+526	Trattoria Pesce Pasta	4	225	2.0	Italian	156	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am
+527	Zack's Oak Bar & Restaurant	4	430	2.0	American (Traditional), Bars	463	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 2:00 am	11:00 am - 3:00 am	10:00 am - 3:00 am	10:00 am - 12:00 am
+528	Petite Crevette	4	312	2.0	Seafood, French	143	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm
+529	Sweetwater Restaurant	4	346	2.0	American (New), Bars	170	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+530	Havana Central	4	2165	2.0	Cuban, Latin American	2235	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 11:00 pm
+531	Cafe D'Alsace	4	1165	2.0	French, Breakfast & Brunch, Desserts	1016	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 11:00 pm	9:00 am - 4:00 pm	9:00 am - 4:00 pm
+532	Mu Ramen	3.5	1169	2.0	Ramen	2336	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	Closed	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+533	Mermaid Oyster Bar	4	1058	2.0	Seafood, Live/Raw Food	984	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 10:00 pm
+534	Safari Restaurant NYC	4.5	180	2.0	Halal, Somali, Sandwiches	186	5:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm
+535	The Westbury Inn	4	74	2.0	American (Traditional), Beer Bar, Chicken Wings	90	5:00 pm - 2:30 am	5:00 pm - 2:30 am	5:00 pm - 2:30 am	5:00 pm - 2:30 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am	12:00 pm - 2:30 am
+536	Perennial	4	105	2.0	American (New), Cocktail Bars	268	Closed	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 11:00 pm	Closed
+537	Queens Bully	3.5	554	2.0	Gastropubs, Cocktail Bars, Breakfast & Brunch	890	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	11:00 am - 1:00 am	11:00 am - 12:00 am
+538	Trinity Place	4	357	2.0	American (New), Irish Pub	345	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	11:00 am - 2:00 am	10:30 am - 12:00 am	10:30 am - 12:00 am
+539	Puglia Ristorante	4	448	2.0	Italian	293							
+540	The Wild Son	4.5	437	2.0	American (New), Cocktail Bars, Breakfast & Brunch	582	9:30 am - 10:00 pm	9:30 am - 10:00 pm	9:30 am - 10:00 pm	9:30 am - 10:00 pm	9:30 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 4:00 pm
+541	East Harbor Seafood Palace	4	657	2.0	Dim Sum, Cantonese, Seafood	1263	9:00 am - 10:30 pm	9:00 am - 10:30 pm	9:00 am - 10:30 pm	9:00 am - 10:30 pm	9:00 am - 10:30 pm	9:00 am - 10:30 pm	9:00 am - 10:30 pm
+542	Forlini's Restaurant	4.5	406	2.0	Italian, Bars	268	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+543	Lalito	3.5	138	2.0	Mexican, Cocktail Bars	188	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	Closed
+544	Da Tang Szechuan	4.5	170	2.0	Szechuan	688							
+545	Verde On Smith	4	471	2.0	Italian, Seafood, Breakfast & Brunch	657	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	10:00 am - 12:00 am	9:00 am - 10:00 pm
+546	J.G. Melon	3.5	1214	2.0	American (Traditional), Bars, Salad	487	11:30 am - 3:00 am	11:30 am - 3:00 am	11:30 am - 3:00 am	11:30 am - 3:59 am	11:30 am - 3:59 am	11:30 am - 3:59 am	11:30 am - 1:00 am
+547	Marlow Bistro	4	260	2.0	Mediterranean, Pizza, Venues & Event Spaces	288	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:45 pm	11:00 am - 10:45 pm	11:00 am - 10:30 pm
+548	Spanish Tavern	4	217	2.0	Spanish	232	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 9:00 pm
+549	Noble Kitchen & Cocktails	4	184	2.0	Cocktail Bars, American (New)	212	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	4:00 pm - 10:00 pm	5:00 pm - 10:00 pm	4:00 pm - 9:00 pm
+550	Faubourg	4	75	2.0	French, Wine Bars	156	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+551	La Bella Vita	4	353	2.0	Italian	320	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+552	Roberta's	4	2724	2.0	Pizza, Italian	2518	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 12:00 am
+553	Frost Restaurant	4	152	2.0	Italian, Seafood, Wine Bars	105	Closed	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm
+554	Trademark Taste + Grind	4.5	602	2.0	Venues & Event Spaces, Breakfast & Brunch, American (Traditional)	928							
+555	Scottadito Osteria Toscana	4	832	2.0	Italian, Venues & Event Spaces, Breakfast & Brunch	630							
+556	Raclette	4	1261	2.0	Sandwiches, French	1991	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 10:30 pm
+557	Kurry Qulture	4.5	334	2.0	Indian, Wine Bars, Cocktail Bars	376	5:00 pm - 10:00 pm	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:30 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm
+558	The Good Fork	4	402	2.0	American (New)	185	Closed	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+559	Next Door	3.5	162	2.0	Italian	189	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 11:00 pm
+560	Li Wan Restaurant	4	25	2.0	Chinese	15	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	12:00 pm - 9:30 pm
+561	Negril BK	4	466	2.0	Caribbean	796	Closed	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm
+562	Paisano's Restaurant	4	572	2.0	Italian	323	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	12:00 pm - 10:00 pm	Closed
+563	Reef Restaurant	3.5	278	2.0	Seafood, American (New)	411	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	11:00 am - 1:00 am	11:00 am - 12:00 am
+564	Astoria Seafood	4	612	2.0	Seafood, Greek, Mediterranean	2188	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	Closed
+565	The Shady Lady	4	762	2.0	American (New), Tapas Bars, Breakfast & Brunch	862	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	11:00 am - 2:00 am	10:00 am - 2:00 am	10:00 am - 1:00 am
+566	Laut	3.5	1163	2.0	Thai, Malaysian, Singaporean	995	11:30 am - 3:15 pm	11:30 am - 3:15 pm	11:30 am - 3:15 pm	11:30 am - 3:15 pm	11:30 am - 3:15 pm	1:00 pm - 10:15 pm	1:00 pm - 9:45 pm
+567	Westville East	4	1022	2.0	American (Traditional), Beer Bar, Bakeries	503	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+568	The Liberty	3.5	440	2.0	American (New), Bars, Venues & Event Spaces	320							
+569	Ikinari Steak East Village	4	744	2.0	Steakhouses, Japanese, Beer, Wine & Spirits	1879	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+570	Barbalu Restaurant	4	271	2.0	Italian, Salad, Sandwiches	328	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	10:30 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:00 pm
+571	New Moon	4	99	2.0	Chinese	77	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	11:00 am - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm
+572	IL Triangolo Restaurant	4.5	437	2.0	Italian	732	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:00 pm - 9:00 pm
+573	Parkside	4	176	2.0	Pizza, Cocktail Bars, Jazz & Blues	236	5:30 pm - 2:00 am	5:30 pm - 2:00 am	5:30 pm - 2:00 am	5:30 pm - 2:00 am	5:30 pm - 2:00 am	4:00 pm - 2:00 am	1:00 pm - 2:00 am
+574	CAVA	4	151	2.0	Mediterranean	237	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm	10:45 am - 10:00 pm
+575	Girasoles Mexican Cuisine	4.5	41	2.0	Mexican	77	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	10:00 am - 9:00 pm	Closed
+576	L'inizio	4	108	2.0	Italian, Bars	131	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 9:00 pm
+577	Publick House	4	174	2.0	American (New), Gastropubs, Salad	110							
+578	Polpette 71	4	128	2.0	Italian	67	5:00 pm - 10:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm
+579	Anable Basin Sailing Bar & Grill	4	163	2.0	Bars, American (Traditional)	247	4:00 pm - 11:00 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	3:00 pm - 1:30 am	12:00 pm - 1:30 am	12:00 pm - 11:30 pm
+580	Zio Toto	4	178	2.0	Italian	78							
+581	Enthaice Thai Kitchen	4	656	2.0	Thai, Seafood, Chicken Wings	758	12:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:30 pm
+582	Sofreh	4	202	2.0	Persian/Iranian	223	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 9:30 pm
+583	wagamama - nomad	3.5	771	2.0	Asian Fusion, Noodles	973	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+584	Osteria Cotta	4	816	2.0	Italian, Wine Bars, Venues & Event Spaces	459							
+585	The Dining Lab At Monroe College	4.5	24	2.0	American (New)	56	Closed	6:30 pm - 7:30 pm	6:30 pm - 7:30 pm	Closed	Closed	Closed	Closed
+586	La Loteria	4	312	2.0	Mexican	477	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 11:00 pm
+587	Le Baratin	4	204	2.0	Cafes, French	212	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 1:00 am	11:00 am - 1:00 am	11:00 am - 12:00 am
+588	Joseph's Restaurant	4	75	2.0	Italian, Venues & Event Spaces	47	12:00 pm - 2:45 pm	12:00 pm - 2:45 pm	12:00 pm - 2:45 pm	12:00 pm - 2:45 pm	12:00 pm - 2:45 pm	Closed	Closed
+589	Seasons 52	4	717	2.0	American (New), Wine Bars, Seafood	1208	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 10:00 pm
+590	SoleLuna Restaurant	4.5	366	2.0	Cafes, Italian, Breakfast & Brunch	528	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+591	Dkalabash	4.5	40	2.0	Caribbean, Cocktail Bars, Venues & Event Spaces	127							
+592	Pepper Lunch Broadway	4	66	2.0	Steakhouses, Teppanyaki	146	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+593	Olio e Piú	4	1939	2.0	Pizza, Italian, Breakfast & Brunch	2638	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 11:00 pm
+594	Heidi's House By The Side Of The Road	4.5	588	2.0	Wine Bars, Comfort Food, Gluten-Free	324	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 10:00 pm
+595	il Fornetto	4	355	2.0	Italian, Seafood	451	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	11:00 am - 10:00 pm
+596	The Brooklyn Barge	3.5	149	2.0	Bars, American (Traditional)	216	4:00 pm - 12:00 am	4:00 pm - 12:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	11:00 am - 1:00 am	11:00 am - 12:00 am
+597	Maya	3.5	891	2.0	Mexican	801	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+598	Carmine's Italian Restaurant - Upper West Side	4	1286	2.0	Italian, Venues & Event Spaces, Caterers	1279	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+599	Mi Bandera	3.5	143	2.0	Cuban, Spanish, Steakhouses	146	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+600	Boucherie Union Square	4.5	594	3.0	Steakhouses, French, Cocktail Bars	1878	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 12:00 am
+601	Coco J'adore	4.5	74	3.0	French, Venues & Event Spaces, Cocktail Bars	195							
+602	Papilles	5	55	3.0	French	109							
+603	Traif	4.5	1830	3.0	American (New), Tapas/Small Plates	2692	Closed	Closed	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 10:30 pm
+604	The Seafire Grill	4.5	1183	3.0	Seafood, Steakhouses, Bars	1165	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm
+605	Boucherie West Village	4.5	1240	3.0	French, Cocktail Bars, Steakhouses	3213	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 12:00 am	9:00 am - 1:00 am	10:00 am - 1:00 am	10:00 am - 12:00 am
+606	La Sirène-Soho	4.5	1582	3.0	French	1435	5:00 pm - 10:00 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 10:00 pm
+607	The NoMad Restaurant	4	1433	3.0	French, American (New), Gastropubs	2485	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am
+608	Allora Ristorante	4.5	469	3.0	Italian, Bars	447	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm
+609	The Finch	4	194	3.0	American (New), Wine Bars	204	6:00 pm - 10:00 pm	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 9:00 pm
+610	Beauty & Essex	4	3357	3.0	American (New)	4804	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 1:00 am	11:30 am - 3:00 pm	11:30 am - 11:00 pm
+611	The Musket Room	4.5	428	3.0	American (New), Cocktail Bars	1230	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 10:00 pm
+612	Barca	4.5	71	3.0	Seafood, Mediterranean, Italian	152	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:00 pm - 9:00 pm
+613	DeStefano's Steakhouse	4.5	797	3.0	Steakhouses	662	Closed	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 10:00 pm	5:00 am - 10:00 pm	10:30 am - 2:30 pm
+614	Hutong	4	102	3.0	Chinese, Cocktail Bars	527	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+615	Ocean Prime	4.5	528	3.0	Seafood, Steakhouses, American (New)	991	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 9:00 pm
+616	Coarse NY	4.5	205	3.0	American (New)	286	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	12:00 pm - 11:00 pm	12:00 pm - 8:00 pm
+617	L'Artusi	4.5	1747	3.0	Italian, Cocktail Bars	1961	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	11:00 am - 3:00 pm
+618	Blue Ribbon Brasserie - Brooklyn	4	557	3.0	American (New)	381	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 11:00 pm
+619	Honey Badger	4	93	3.0	American (New), Seafood	140	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm
+620	Antica Ristorante	4.5	481	3.0	Italian	328	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm
+621	L'Antagoniste	4.5	266	3.0	French, Breakfast & Brunch, Wine Bars	488	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+622	Amelie	4.5	161	3.0	French, Wine Bars	181	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	4:00 pm - 12:00 am	12:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+623	Olmsted	4	350	3.0	American (New)	920	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	11:30 am - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+624	Trattoria L'incontro	4.5	893	3.0	Italian, Pizza, Salad	558	Closed	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	1:00 pm - 9:30 pm
+625	ABC Kitchen	4	2920	3.0	American (New), French	3912	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+626	Clay	4.5	135	3.0	American (New), Bars	132	Closed	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 10:00 pm
+627	Bordeaux	4.5	58	3.0	Kosher, Steakhouses, American (New)	137	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	Closed	Closed	5:00 pm - 11:00 pm
+628	Mountain Bird	4.5	176	3.0	French	324	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	5:00 pm - 9:00 pm
+629	Balthazar Restaurant	4	2991	3.0	French, Breakfast & Brunch	2837	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	7:30 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am
+630	Fire & Oak - Jersey City	4	507	3.0	American (New), Seafood, Steakhouses	589	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+631	Atoboy	4.5	317	3.0	Korean, Tapas/Small Plates, Asian Fusion	1598	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm
+632	Wonderland	4.5	10	3.0	American (New)	101							
+633	Chart House	4	1354	3.0	Seafood, Steakhouses, Venues & Event Spaces	2063	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	11:30 am - 11:00 pm	11:00 am - 10:00 pm
+634	Burke & Wills	4	402	3.0	Australian, Bars, Desserts	439	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 12:00 am
+635	The Milling Room	4	433	3.0	American (New), Wine Bars, Cocktail Bars	495	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 10:00 pm
+636	Momofuku Ssam Bar	4	2402	3.0	American (New)	3281	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+637	Evelina	4.5	141	3.0	Italian	198	12:00 pm - 3:30 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm
+638	Jack the Horse Tavern	4	383	3.0	American (New), Bars	207	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	11:00 am - 9:00 pm
+639	Fleming's Prime Steakhouse & Wine Bar- Edgewater	4	461	3.0	Steakhouses, Wine Bars, Seafood	517	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:00 pm - 9:00 pm
+640	Colonie	4	555	3.0	Breakfast & Brunch, American (Traditional), Cocktail Bars	458	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 1:00 am	11:00 am - 1:00 am	11:00 am - 12:00 am
+641	Osteria Morini Manhattan	4	1109	3.0	Italian, Cocktail Bars, Wine Bars	1369	12:00 pm - 11:00 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 10:00 pm
+642	Alta	4	1842	3.0	Tapas Bars, Mediterranean, Spanish	1110	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 1:00 am	5:30 pm - 1:00 am	6:00 pm - 10:30 pm
+643	Majorelle	4	51	3.0	French	62	5:30 pm - 10:30 pm	12:00 pm - 2:30 pm	12:00 am - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	Closed
+644	Blue Ribbon Brasserie - SoHo	4.5	912	3.0	American (Traditional), Cocktail Bars	522	4:00 pm - 4:00 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am	4:00 pm - 4:00 am
+645	Al Di La Trattoria	4	874	3.0	Italian	328	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+646	Meet The Meat	4.5	326	3.0	Steakhouses, Seafood	399	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	3:30 pm - 9:45 pm
+647	Christo's Steak House	4	379	3.0	Steakhouses, Greek	538	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	3:00 pm - 10:00 pm
+648	Roberto's	4	243	3.0	Italian	153	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	Closed
+649	Maison Premiere	4	1116	3.0	Seafood, Bars, American (Traditional)	1517	2:00 pm - 2:00 am	2:00 pm - 2:00 am	2:00 pm - 2:00 am	2:00 pm - 4:00 am	2:00 pm - 4:00 am	11:00 am - 4:00 am	11:00 am - 2:00 am
+650	Augustino's	4	269	3.0	Italian	190	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	Closed
+651	Buddakan	4	3852	3.0	Chinese, Bars, Asian Fusion	4403	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 11:00 pm
+652	Michael's of Brooklyn	4.5	210	3.0	Italian	275	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+653	Gato	4	1111	3.0	Mediterranean, Spanish, Bars	1761	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:30 pm
+654	Marc Forgione	4.5	902	3.0	American (New)	1158	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+655	Llama Inn	4	437	3.0	Peruvian, Bars	634	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	10:30 am - 3:00 pm	10:30 am - 3:00 pm
+656	St. Anselm	4	794	3.0	American (New), Wine Bars, Steakhouses	733	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+657	Tutta Pesca	4.5	230	3.0	Seafood, Seafood Markets, Italian	214	Closed	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 9:00 pm
+658	Club A Steakhouse	4.5	2668	3.0	Steakhouses	2279	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+659	Park Avenue Autumn/Winter/Spring/Summer	4	892	3.0	American (New)	2961	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+660	Celestine	4	196	3.0	Mediterranean, Bars	255	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 11:00 pm
+661	Vitae	4	763	3.0	American (New), Wine Bars, Venues & Event Spaces	936	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	5:30 pm - 10:00 pm	Closed
+662	Nerai	4.5	441	3.0	Greek, Seafood, Mediterranean	732	7:30 am - 10:00 pm	7:30 am - 10:00 pm	7:30 am - 10:00 pm	7:30 am - 10:00 pm	7:30 am - 10:30 pm	5:00 pm - 10:30 pm	Closed
+663	James	3.5	431	3.0	American (New)	177	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+664	Trattoria Italienne	4.5	133	3.0	Italian, French	283	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:30 pm - 11:00 pm	Closed
+665	Blue	4	295	3.0	Mediterranean, Seafood, Asian Fusion	402	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 9:00 pm
+666	Nougatine at Jean-Georges	4	1105	3.0	French, Asian Fusion, Breakfast & Brunch	2074	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	8:00 am - 10:00 am	8:00 am - 10:30 am
+667	Meadowsweet	4	354	3.0	American (Traditional)	369	6:00 pm - 10:00 pm	Closed	6:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+668	Amber Steak House	4.5	281	3.0	Steakhouses	278	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm
+669	Mar's	4	244	3.0	Seafood, American (New), Cocktail Bars	232	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 2:00 am	11:00 am - 2:00 am	11:00 am - 1:00 am
+670	Iki Modern Japanese Cuisine	4	240	3.0	Japanese, Sushi Bars	1581	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+671	Copperhill	4.5	230	3.0	American (New)	427	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm
+672	Boutros	4.5	109	3.0	American (New), Middle Eastern	169	5:30 am - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 1:00 am	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+673	Tuome	4.5	458	3.0	American (New), Chinese	1113	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	Closed
+674	Battello	3.5	488	3.0	Italian, Seafood, Lounges	794	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:00 am - 2:30 pm	11:00 am - 2:30 pm
+675	Lupa	4	1482	3.0	Italian	1070	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 11:00 pm
+676	Convivium Osteria	4	466	3.0	Italian, Wine Bars, Venues & Event Spaces	327	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 9:30 pm
+677	Aldea	4	601	3.0	Portuguese, Spanish, Iberian	1305	Closed	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	Closed
+678	Wildair	4	163	3.0	American (New)	554	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 12:30 am	6:00 pm - 12:30 am	6:00 pm - 11:00 pm
+679	Karasu	4	89	3.0	Japanese, Cocktail Bars	141	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 11:00 pm
+680	Fine & Rare	4.5	290	3.0	American (New), Jazz & Blues, Lounges	624	5:00 pm - 12:00 am	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+681	Clement	4	137	3.0	American (New), Diners, Buffets	405	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm
+682	Del Frisco's Grille	3.5	133	3.0	American (Traditional), Steakhouses, Sandwiches	128	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+683	Belle Harlem	4.5	138	3.0	American (New), Southern, Comfort Food	246	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	Closed
+684	The Fulton	3.5	104	3.0	Seafood, American (New)	267	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm
+685	Marlow & Sons	4	526	3.0	American (New)	221	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm	8:00 am - 4:00 pm
+686	Maiella	4	814	3.0	Italian, Seafood, Breakfast & Brunch	1473	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm
+687	Dirty French	4	617	3.0	French	955	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am
+688	Print	4	883	3.0	American (New), Breakfast & Brunch	1022	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 9:45 pm
+689	Scarpetta	4	1851	3.0	Italian	2267	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am
+690	HAVEN Riverfront Restaurant and Bar	4	755	3.0	American (New), Seafood, Bars	1199	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 9:00 pm
+691	4 Charles Prime Rib	5	222	3.0	Steakhouses, Seafood, Cocktail Bars	480	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am
+692	Cote	4	749	3.0	Korean, Steakhouses, Cocktail Bars	2536	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	4:00 pm - 10:00 pm
+693	MAMO Restaurant	4	240	3.0	Italian, French, Pizza	372	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm
+694	JoJo	4.5	125	3.0	American (New), Cocktail Bars	212	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+695	One Dine	3	133	3.0	American (New)	300							
+696	Sugarcane Raw Bar Grill	4	515	3.0	Sushi Bars, Cocktail Bars, Tapas/Small Plates	776	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 11:00 pm
+697	La Vara	4	347	3.0	Spanish	358	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:00 pm - 11:00 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm
+698	Sfoglia Restaurant	4	271	3.0	Italian	100	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:00 pm
+699	Gran Morsi	4.5	335	3.0	Italian, Venues & Event Spaces, Cocktail Bars	474							
+700	Augustine	4	223	3.0	French, Brasseries, Bars	442	7:30 am - 11:00 am	7:30 am - 11:00 am	7:30 am - 11:00 am	7:30 am - 11:00 am	7:30 am - 11:00 am	10:00 am - 12:00 am	10:00 am - 10:00 pm
+701	Union Square Cafe	4	1184	3.0	American (New), Cafes, Bars	1200	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+702	Limani	4	400	3.0	Mediterranean, Seafood	726	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 10:00 pm
+703	Cecconi's Dumbo	3.5	584	3.0	Italian	1077	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:30 pm	11:00 am - 11:30 pm	11:00 am - 10:30 pm
+704	Bohemian Restaurant	4.5	737	3.0	Japanese, Cocktail Bars	2604	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm
+705	Kāwi	4	117	3.0	American (New), Korean	509	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+706	The Dolar Shop	4	616	3.0	Chinese, Hot Pot	1541	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 1:00 am	11:30 am - 1:00 am	11:30 am - 11:00 pm
+707	Xixa	4.5	554	3.0	Mexican, Tapas/Small Plates	954	Closed	Closed	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 11:00 pm
+708	Tuscany Steakhouse	4.5	103	3.0	Steakhouses, Italian, Seafood	291							
+709	Bowery Road	4	190	3.0	American (New)	361	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm
+710	Lure Fishbar	4	1605	3.0	Seafood, Sushi Bars, Bars	1811	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 10:00 pm
+711	Kahlo	4.5	80	3.0	Mexican	145	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	11:30 am - 12:00 am	11:30 am - 10:00 pm
+712	Loring Place	4.5	369	3.0	American (New)	805	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+713	GLORIA	4	125	3.0	Seafood, Wine Bars, Cocktail Bars	236	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	Closed
+714	Bisoux	2.5	12	3.0	Gelato, Coffee & Tea, American (Traditional)	24							
+715	Gayeon	4	143	3.0	Korean	486	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 10:00 pm	11:30 am - 9:00 pm
+716	Faro	4	266	3.0	Italian	431	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+717	Giando on the Water	3.5	186	3.0	Italian, Venues & Event Spaces	1628	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm
+718	The Cecil Steakhouse	3.5	109	3.0	Steakhouses, Bars, American (Traditional)	169	Closed	Closed	5:00 pm - 12:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 1:00 am	12:00 pm - 3:00 pm
+719	Riverpark	4	787	3.0	American (New), Breakfast & Brunch, Venues & Event Spaces	1591	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+720	Porto Leggero	4	177	3.0	Italian	129	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 10:00 pm	5:00 pm - 10:30 pm	Closed
+721	The River Palm Terrace	4	394	3.0	Steakhouses, Seafood	569	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm
+722	Boulud Sud	4	715	3.0	Mediterranean	1234	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+723	Perry St	4	925	3.0	American (New), French, Asian Fusion	1542	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+724	La Masseria	4	575	3.0	Italian	350	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 10:30 pm
+725	Rainhas Churrascaria	4	674	3.0	Brazilian, Steakhouses	834	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 10:00 pm
+726	The Usual	4.5	94	3.0	American (New), Comfort Food, Burgers	321	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am
+727	Philippe Downtown	4	51	3.0	Chinese	108	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 12:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	5:00 pm - 11:00 pm
+728	Henry's End	4	345	3.0	American (New), Diners, Wine Bars	141	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:00 pm - 10:00 pm
+729	Houston's Restaurant	4	679	3.0	American (Traditional), Steakhouses, American (New)	823	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	12:00 pm - 9:00 pm
+730	Perrine	4	73	3.0	American (New), French	199	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm	7:00 am - 10:30 pm
+731	X20 on the Hudson	4	746	3.0	French, American (New), Asian Fusion	1067	Closed	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	5:00 pm - 10:00 pm	12:00 pm - 2:00 pm
+732	Fausto	4	138	3.0	Italian, Cocktail Bars	220	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	11:00 am - 2:30 pm	11:00 am - 2:30 pm
+733	M. Wells Steakhouse	3.5	389	3.0	Steakhouses, Wine Bars	635	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+734	Arabelle	3	24	3.0	American (New)	9							
+735	Robert	4	893	3.0	American (New), Venues & Event Spaces, Cocktail Bars	1559	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	10:30 am - 11:00 pm	10:30 am - 10:00 pm
+736	Gallaghers Steakhouse	4	1081	3.0	Steakhouses, Seafood, American (Traditional)	1840	11:45 am - 11:30 pm	11:45 am - 11:30 pm	11:45 am - 11:30 pm	11:45 am - 11:30 pm	11:45 am - 11:30 pm	11:45 am - 11:30 pm	11:45 am - 10:30 pm
+737	K Rico Steakhouse	4.5	558	3.0	Bars, Steakhouses	769							
+738	Schilling	4	141	3.0	Austrian, Bars, American (New)	174	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm
+739	Villanelle	4.5	73	3.0	American (New), Desserts, Cocktail Bars	214	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm
+740	Bowery Meat Company	4	457	3.0	Steakhouses, Wine Bars	939	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 10:00 pm
+741	Novelli	4.5	110	3.0	Italian	101	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	1:00 pm - 9:00 pm
+742	Casa Nonna	4	511	3.0	Italian	458	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 9:30 pm
+743	Turtle + The Wolf	4	243	3.0	American (New), Desserts, Comfort Food	345	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 9:00 pm
+744	Hearth	4	700	3.0	American (New), Italian, Breakfast & Brunch	727	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 11:00 pm	11:00 am - 2:00 pm	11:00 am - 3:30 pm
+745	Pylos	4.5	1100	3.0	Greek	845	5:00 pm - 12:00 am	5:00 pm - 12:00 am	11:30 am - 4:00 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm
+746	Glasserie	4	346	3.0	Mediterranean, Bars	252	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	10:00 am - 4:00 pm	10:00 am - 4:00 pm
+747	The Capital Grille	4	565	3.0	Seafood, Steakhouses, Wine Bars	661	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	5:00 pm - 10:00 pm	Closed
+748	Zona De Cuba	3	282	3.0	Cuban, Spanish	430	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am
+749	Zenkichi New York	4	968	3.0	Japanese	1868	5:30 pm - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 11:30 pm
+750	Voula	4.5	86	3.0	Greek, Mediterranean, Cocktail Bars	130	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 9:30 pm
+751	Chadwick's	4	244	3.0	American (Traditional), Steakhouses, Seafood	207	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	1:30 pm - 9:00 pm
+752	Jake's Steakhouse	4	222	3.0	Steakhouses	227	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	12:00 pm - 10:00 pm
+753	Gatsby's Landing	4	176	3.0	American (New), Cocktail Bars	371	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 9:00 pm
+754	Grand Tier Restaurant	4	74	3.0	American (New)	125	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:30 pm	10:30 am - 12:30 pm	Closed
+755	Common Lot	4	166	3.0	American (New), Desserts	251	Closed	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	5:00 pm - 10:30 pm	Closed
+756	Il Falco	4.5	276	3.0	Italian, Venues & Event Spaces, Wine Bars	333							
+757	The Cuban Restaurant and Bar	4	969	3.0	Cuban, Bars, Latin American	935	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+758	Elia Restaurant	4	159	3.0	Greek	108	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:00 pm - 9:00 pm
+759	Park Side Restaurant	4	692	3.0	Italian	1189	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:30 pm - 10:00 pm
+760	Market Table	4	784	3.0	American (New), Wine Bars, Desserts	435	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 10:00 pm
+761	The Little Owl	4	1248	3.0	Desserts, Wine Bars, Mediterranean	659	8:00 am - 2:30 pm	8:00 am - 2:30 pm	8:00 am - 2:30 pm	8:00 am - 2:30 pm	8:00 am - 2:30 pm	9:00 am - 2:30 pm	9:00 am - 2:30 pm
+762	Aburiya Kinnosuke	4	719	3.0	Tapas/Small Plates, Izakaya	1286	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:30 pm - 11:00 pm	5:30 pm - 10:30 pm
+763	Amanda's Restaurant	4	553	3.0	Breakfast & Brunch, American (New)	466	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 9:00 pm
+764	Il Buco	4	635	3.0	Italian, Mediterranean	424	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	5:00 pm - 10:30 pm
+765	ilili	4	2325	3.0	Mediterranean, Lebanese, Cocktail Bars	2107	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 11:30 pm	11:00 am - 10:30 pm
+766	Satis Bistro	4	654	3.0	Wine Bars, American (New), Italian	711	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 9:00 pm
+767	Becco	3.5	2772	3.0	Italian	1797	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:30 am - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:30 am - 3:00 pm	12:00 pm - 10:00 pm
+768	The Polo Bar	4	389	3.0	American (Traditional), Bars	681	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:00 pm
+769	Lucky Cheng's	3.5	84	3.0	Bars, Cabaret, Mexican	330	Closed	Closed	Closed	Closed	6:30 pm - 10:00 pm	6:30 pm - 9:00 pm	Closed
+770	Primola	3.5	121	3.0	Italian	42							
+771	Minetta Tavern	4	2140	3.0	French, American (New), Breakfast & Brunch	1685	5:30 pm - 12:00 am	5:30 pm - 12:00 am	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+772	Chateau De Capitaine	4	125	3.0	Seafood, Modern European, French	249	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm
+773	Buceo 95	4	425	3.0	Tapas Bars, Spanish, Wine Bars	160	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am
+774	Morton's The Steakhouse	4	220	3.0	Steakhouses, American (Traditional), Bars	332	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm
+775	La Mirabelle	4	118	3.0	French	64	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 9:30 pm
+776	Lola	4	236	3.0	Mediterranean	357	Closed	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	11:00 am - 3:00 pm
+777	Fascino	4	299	3.0	Italian	192	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	Closed
+778	Faun	4	138	3.0	Italian, American (New), Bars	138	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 9:00 pm
+779	Little Frog Bistro & Bar	4	184	3.0	French, Bars	115	5:00 pm - 9:30 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 9:30 pm
+780	Dubrovnik Restaurant	4	214	3.0	Mediterranean, Seafood, Wine Bars	255	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	12:00 pm - 10:00 pm
+781	Oceana	4	504	3.0	Seafood	518	7:30 am - 10:00 am	7:30 am - 10:00 am	7:30 am - 10:00 am	7:30 am - 10:00 am	7:30 am - 10:00 am	5:00 pm - 10:00 pm	Closed
+782	Liberty Prime Steakhouse	4	351	3.0	Bars, American (New), Steakhouses	461	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 10:00 pm	11:00 am - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+783	Edward's Steak House	4	227	3.0	Steakhouses	131	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 9:00 pm
+784	Piccola Venezia Restaurant	4.5	229	3.0	Italian, Seafood, Soup	382	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	4:30 pm - 11:00 pm	2:00 pm - 9:00 pm
+785	Amali	4	364	3.0	Mediterranean, Italian, Seafood	333	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+786	Narcissa	3.5	498	3.0	American (New)	819	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+787	Vandal	3.5	1369	3.0	American (New)	3257	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 1:00 am	5:00 pm - 1:00 am	5:00 pm - 11:00 pm
+788	Hillstone Restaurant	4	914	3.0	American (New), Sushi Bars	810	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+789	Maritime Parc	4	265	3.0	American (New), Wedding Planning, Venues & Event Spaces	350	Closed	Closed	Closed	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	11:00 am - 4:00 pm
+790	Loi Estiatorio	4.5	335	3.0	Greek, Mediterranean	277	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 11:00 pm	11:00 am - 3:00 pm
+791	The Greek	4.5	475	3.0	Greek, Mediterranean, Cocktail Bars	472	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	3:00 pm - 11:00 pm	Closed
+792	Armani Ristorante	4	222	3.0	Italian	759	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 3:00 pm
+793	Bin 5	4.5	333	3.0	Italian, Cocktail Bars	287	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 12:00 am	3:00 pm - 12:00 am	2:00 pm - 9:00 pm
+794	Harvest on Hudson	4	725	3.0	Italian, Bars, Desserts	558	11:45 am - 10:00 pm	11:45 am - 10:00 pm	11:45 am - 10:00 pm	11:45 am - 10:00 pm	11:45 am - 11:00 pm	11:15 am - 11:00 pm	11:15 am - 9:00 pm
+795	Rocco Steakhouse	4.5	318	3.0	American (Traditional), Steakhouses, Seafood	349	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:30 pm
+796	Liman Restaurant	4	302	3.0	Turkish, Seafood, Mediterranean	410	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 10:30 pm
+797	Taboon	4	631	3.0	Middle Eastern, Mediterranean	560	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:30 pm	11:00 am - 3:30 pm
+798	Deluca's Italian Restaurant	4.5	126	3.0	Italian, Seafood, Pizza	99	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	1:00 pm - 9:00 pm
+799	Viaggio Ristorante	4.5	226	3.0	Italian	323	Closed	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:00 pm - 10:30 pm	4:00 pm - 9:00 pm
+800	The Stone House at Clove Lakes	3.5	187	3.0	Breakfast & Brunch, American (New), Venues & Event Spaces	285	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	11:00 am - 9:00 pm
+801	Ruth's Chris Steak House	4	107	3.0	Steakhouses, American (Traditional)	187	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm	5:00 pm - 10:30 pm	4:00 pm - 9:30 pm
+802	Orange Grill	4	149	3.0	Bars, Sushi Bars, French	422	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	12:00 pm - 1:00 am	1:00 pm - 4:00 am	1:00 pm - 4:00 am	1:00 pm - 2:00 am
+803	Hudson Yards Grill	3	99	3.0	American (New)	189	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 9:00 pm
+804	Shaking Crab	3.5	290	3.0	Cajun/Creole, Seafood	374	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 10:00 pm
+805	Cocotte	4	315	3.0	French, Basque	372	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 12:00 am	4:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+806	Chinese Tuxedo	3.5	243	3.0	Chinese, Seafood, Noodles	343	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am
+807	Harry's	4	663	3.0	Steakhouses, Cafes, Bars	448	11:30 am - 12:00 am	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 1:00 am	11:00 am - 1:00 am	11:00 am - 4:00 pm
+808	The Bar Room	4	483	3.0	Lounges, French, American (New)	694	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 9:00 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 2:30 pm
+809	Pinocchio Restaurant	4	203	3.0	Italian	70	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm
+810	Untitled at the Whitney	4	287	3.0	American (New), Breakfast & Brunch, Wine Bars	757	12:00 pm - 5:00 pm	Closed	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 9:00 pm
+811	Noreetuh	4	412	3.0	American (New), Hawaiian	1083	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 9:00 pm
+812	Tomiño Taberna Gallega	4.5	213	3.0	Wine Bars, Spanish, Tapas Bars	589	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+813	Halifax	3.5	312	3.0	Seafood, American (Traditional), Breakfast & Brunch	578	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	7:30 am - 11:00 pm	7:30 am - 10:00 pm
+814	The Capital Grille	4	733	3.0	Steakhouses, Seafood, Wine Bars	801	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 10:00 pm
+815	Chez Josephine	4	473	3.0	French	341	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm
+816	The Odeon	4	616	3.0	American (New), French, Italian	282	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 11:00 pm
+817	EN Japanese Brasserie	4	1222	3.0	Japanese, Diners, Bars	2326	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	11:00 am - 2:30 pm	11:00 am - 2:30 pm
+818	Philippe By Philippe Chow	3.5	659	3.0	Chinese, Asian Fusion	774	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	2:00 pm - 11:00 pm
+819	Gradisca	4	365	3.0	Italian, Wine Bars, Pasta Shops	129	Closed	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:30 pm	5:30 pm - 11:30 pm	5:30 pm - 11:00 pm
+820	Locanda Vini e Olii	4	295	3.0	Italian, Wine Bars	99	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 10:00 pm
+821	Vis à Vis Restaurant and Lounge	4	88	3.0	French, Lounges, Russian	147	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+822	Capers Restaurant	4.5	51	3.0	Mediterranean	54	11:00 am - 2:00 pm	11:00 am - 2:00 pm	11:00 am - 2:00 pm	11:00 am - 2:00 pm	11:00 am - 2:00 pm	5:00 pm - 11:00 pm	11:00 am - 2:00 pm
+823	Beaubourg	3	271	3.0	French	428	8:00 am - 10:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 12:00 am	8:00 am - 12:00 am	10:00 am - 12:00 am	10:00 am - 10:00 pm
+824	The Flatiron Room	4.5	760	3.0	Lounges, Jazz & Blues, American (Traditional)	830	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 2:00 am	5:00 pm - 12:00 am
+825	Avra Estiatorio	4	835	3.0	Seafood, Greek, Mediterranean	575	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+826	Sushi Lin	4.5	230	3.0	Sushi Bars, Japanese	1060	Closed	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 11:30 pm	5:00 pm - 11:30 pm	5:00 pm - 11:00 pm
+827	Petite Boucherie	4.5	106	3.0	French	283	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 12:00 am	8:00 am - 1:00 am	8:00 am - 1:00 am	8:00 am - 12:00 am
+828	Just	4	292	3.0	American (New), Desserts, Gluten-Free	374	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:30 pm - 9:30 pm
+829	MIMI	4	132	3.0	French	229	6:00 pm - 1:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	6:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 11:00 pm
+830	Vento	4.5	58	3.0	Italian, Seafood, Sushi Bars	93	Closed	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	12:00 pm - 9:00 pm	4:00 pm - 9:00 pm	Closed
+831	The Clocktower	4	352	3.0	British	1082	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am
+832	Almayass Restaurant NYC	4	431	3.0	Mediterranean, Armenian, Lebanese	353	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm
+833	Sant Ambroeus	4	368	3.0	Italian, Coffee & Tea, Breakfast & Brunch	280	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	8:00 am - 11:00 pm	8:00 am - 11:00 pm
+834	Alberto Restaurant	4	193	3.0	Italian	122	5:00 pm - 10:30 pm	Closed	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 11:30 pm	5:00 pm - 11:30 pm	4:00 pm - 10:30 pm
+835	Sofia	4	347	3.0	Lounges, Steakhouses, Italian	520	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 1:00 am	11:30 am - 2:00 am	11:30 am - 2:00 am	11:30 am - 1:00 am
+836	Wallse	4	261	3.0	German, Austrian, Modern European	387	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	Closed
+837	Vetro Restaurant & Lounge	4.5	250	3.0	Italian, Lounges, Breakfast & Brunch	336	Closed	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 10:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	11:30 am - 2:30 pm
+838	Catch NYC	3.5	2182	3.0	Asian Fusion, Sushi Bars, Seafood	2534	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:00 am - 3:00 pm	11:00 am - 3:00 pm
+839	Soigne Restaurant	4	200	3.0	French, Breakfast & Brunch, American (Traditional)	115							
+840	Suteishi	4	471	3.0	Japanese, Sushi Bars	358	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	3:00 pm - 11:30 pm	3:00 pm - 10:00 pm
+841	Benchmark	3.5	485	3.0	Steakhouses, American (New)	371	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	10:00 am - 3:00 pm	10:00 am - 3:00 pm
+842	Blue Fin	3.5	986	3.0	Sushi Bars, Seafood	885	7:00 am - 11:00 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 11:00 pm
+843	Fabio Cucina Italiana	4.5	277	3.0	Italian	291	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 11:00 pm	3:00 pm - 11:00 pm	3:00 pm - 10:00 pm
+844	Ortzi	4	95	3.0	Basque, Wine Bars, Breakfast & Brunch	235	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 9:00 pm
+845	Come Prima Ristorante	4.5	78	3.0	Bars, Italian	64	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm
+846	Il Punto Ristorante	4	342	3.0	Italian, Wine Bars	352	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm
+847	Vinegar Hill House	3.5	644	3.0	Bars, Breakfast & Brunch, American (Traditional)	221	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 11:00 pm	10:30 am - 3:30 pm	10:30 am - 3:30 pm
+848	Medieval Times Dinner & Tournament	4	701	3.0	American (Traditional), Dinner Theater	1611	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm	10:00 am - 10:00 pm
+849	Cliffs Steakhouse	4	96	3.0	Steakhouses	75	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	3:00 pm - 11:00 pm	3:00 pm - 11:00 pm	3:00 pm - 10:00 pm
+850	Kokage	4	86	3.0	Japanese, Noodles	346	Closed	11:45 am - 1:45 pm	11:15 am - 1:45 pm	11:45 am - 1:45 pm	11:45 am - 1:45 pm	11:45 am - 1:45 pm	5:30 pm - 9:15 pm
+851	The Wright	3.5	73	3.0	American (New)	73	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	Closed	11:30 am - 3:30 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+852	San Carlo Osteria Piemonte	4.5	193	3.0	Italian, Wine Bars, Cocktail Bars	300	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:30 pm	11:30 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm
+853	Leonelli Taberna	3.5	41	3.0	Italian	104	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm
+854	Virginia's	4	165	3.0	American (New)	433	Closed	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 11:00 pm	12:00 pm - 3:00 pm	Closed
+855	Don Angie	4.5	265	3.0	Italian, American (New)	561	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 11:00 pm
+856	The Sea Grill	4	355	3.0	Seafood, American (New), Sushi Bars	594	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	5:00 pm - 10:00 pm	Closed
+857	Hillstone Restaurant	4	1056	3.0	Jazz & Blues, American (New), Sushi Bars	729	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+858	Tamarind	4	872	3.0	Indian	956	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+859	Mercer Kitchen	3.5	1543	3.0	American (New), French, Cocktail Bars	1379	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 11:00 pm
+860	Mercer Kitchen	3.5	1543	3.0	American (New), French, Cocktail Bars	1379	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 11:00 pm
+861	Seawalk Restaurant	4	132	3.0	Seafood, Bars, Breakfast & Brunch	283	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 1:00 am	4:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 10:00 pm
+862	Butter Midtown	3.5	950	3.0	American (New)	1300	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:00 pm - 10:00 pm	11:00 am - 2:00 pm
+863	Employees Only	4	1424	3.0	American (New), Diners, Cocktail Bars	821	6:00 pm - 3:59 am	6:00 pm - 3:59 am	6:00 pm - 3:59 am	6:00 pm - 3:59 am	6:00 pm - 3:59 am	6:00 pm - 3:59 am	6:00 pm - 3:59 am
+864	Barano	4.5	226	3.0	Pizza, Italian	362	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 12:00 am	5:00 pm - 12:00 am	11:30 am - 3:30 pm
+865	The Loft Steakhouse	4.5	69	3.0	Steakhouses, Kosher	144	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	Closed	Closed	5:00 pm - 10:30 pm
+866	Bistro Vendome	4	127	3.0	French	114	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:30 pm - 10:30 pm	12:00 pm - 3:00 pm
+867	The Leopard at des Artistes	4	209	3.0	Italian	175	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:30 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+868	Del Frisco's Grille	3.5	362	3.0	American (New), Steakhouses, Cocktail Bars	455	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 10:00 pm
+869	Maialino	4	1348	3.0	Italian, Breakfast & Brunch, Bars	1076	7:30 am - 10:00 pm	7:30 am - 10:00 pm	7:30 am - 10:00 pm	7:30 am - 10:30 pm	7:30 am - 10:30 pm	8:00 am - 10:30 pm	8:00 am - 10:00 pm
+870	Yoon Haeundae Galbi	4.5	324	3.0	Korean, Barbeque, Steakhouses	853	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm
+871	Thalassa Restaurant	4	389	3.0	Seafood, Greek, Mediterranean	368	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:30 pm - 11:00 pm	Closed
+872	Hwa Yuan	4	211	3.0	Szechuan	500	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:00 pm
+873	Saxon + Parole	4	752	3.0	American (New), Desserts, Breakfast & Brunch	873	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+874	Tavern on the Green	3.5	1362	3.0	American (New), Cocktail Bars	2125	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 9:00 pm	11:00 am - 11:00 pm	9:00 am - 11:00 pm	9:00 am - 9:00 pm
+875	Xiang Hotpot-Brooklyn	4	78	3.0	Chinese, Hot Pot	530	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am	12:00 pm - 2:00 am
+876	Molos	3.5	457	3.0	Greek, Seafood, Mediterranean	641	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	11:00 am - 11:00 pm	11:00 am - 10:00 pm
+877	Pier 115 Bar and Grill	3.5	873	3.0	Sports Bars, American (Traditional), Pizza	1008	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 1:00 am	12:00 pm - 2:30 am	12:00 pm - 2:30 am	12:00 pm - 12:00 am
+878	Hatsuhana Sushi Restaurant	4	1261	3.0	Japanese, Sushi Bars	1845	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	5:00 pm - 10:00 pm	Closed
+879	Highlawn Pavillion	3.5	204	3.0	American (New), Seafood	239	12:00 pm - 3:00 pm	12:00 am - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 10:00 pm	5:00 pm - 9:00 pm
+880	Village Green Restaurant	4.5	143	3.0	French, American (New)	244	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	5:00 pm - 10:00 pm	Closed
+881	Antique Garage Tribeca	4	88	3.0	Mediterranean, Turkish	127							
+882	Le Marais	3	284	3.0	French, Steakhouses, Burgers	103	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 3:00 pm	Closed	12:00 pm - 12:00 am
+883	Etcetera Etcetera	4	420	3.0	Italian, Venues & Event Spaces, Wine Bars	294							
+884	Laurel & Sage	4	136	3.0	American (New)	207	Closed	Closed	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:00 pm - 8:30 pm
+885	Fig & Olive - Meatpacking	3.5	1332	3.0	Mediterranean, French, Bars	1481	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 12:00 am	11:00 am - 12:00 am	11:00 am - 10:00 pm
+886	BG Restaurant	4	368	3.0	American (New), Tea Rooms	676	11:30 am - 8:00 pm	11:30 am - 8:00 pm	11:30 am - 8:00 pm	11:30 am - 8:00 pm	11:30 am - 8:00 pm	11:30 am - 7:00 pm	11:30 am - 5:00 pm
+887	Meritage Restaurant	4.5	48	3.0	American (New), Venues & Event Spaces, Bars	76	4:30 pm - 11:00 pm	4:30 pm - 11:00 pm	4:30 pm - 11:30 pm	4:30 pm - 11:30 pm	4:30 pm - 11:30 pm	4:30 pm - 11:30 pm	4:30 pm - 11:00 pm
+888	ZAVŌ Restaurant & Lounge	4	124	3.0	Mediterranean, Seafood, Lounges	263	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 11:00 pm
+889	Angelina's	4	57	3.0	Italian	26							
+890	Eric's Steak House	4.5	99	3.0	Steakhouses, American (New), Pasta Shops	356	5:00 pm - 10:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	5:00 pm - 10:00 pm
+891	The Dining Room at The Met	3.5	75	3.0	American (New)	182	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm	11:30 am - 3:00 pm	11:00 am - 3:00 pm
+892	Liberty House Restaurant	3.5	487	3.0	American (New), Seafood	682	Closed	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	11:00 am - 3:00 pm
+893	Todd English at The Plaza	3.5	311	3.0	American (New)	448	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm
+894	Pietro's	4	104	3.0	Steakhouses, Italian, Wine Bars	60	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	5:30 pm - 10:00 pm	Closed
+895	Aquagrill	4	1334	3.0	Seafood, American (New), Live/Raw Food	1188	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:00 am - 3:30 pm	11:00 am - 3:30 pm
+896	The Loeb Boathouse	3.5	1230	3.0	Boating, American (Traditional), Cocktail Bars	1274	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	12:00 pm - 3:30 pm	9:30 am - 3:30 pm	9:30 am - 3:30 pm
+897	Heirloom Tavern	4.5	144	3.0	American (New), Bars	89	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	11:00 am - 9:30 pm
+898	Pearl Oyster Bar	4	819	3.0	Seafood, Wine Bars, Tapas/Small Plates	465	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	6:00 pm - 11:00 pm	Closed
+899	Sakagura	4	1756	3.0	Japanese	3565	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	6:00 pm - 11:15 pm	6:00 pm - 10:15 pm
+900	Shun	5	18	4.0	French, Japanese	132	Closed	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	Closed
+901	Eleven Madison Park	4.5	2081	4.0	American (New), French, Cocktail Bars	7887	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm
+902	Atera	4.5	245	4.0	American (Traditional)	1428	Closed	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	1:30 pm - 10:30 pm	Closed
+903	Gramercy Tavern	4.5	2807	4.0	American (New)	4805	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 11:00 pm
+904	Daniel	4.5	1548	4.0	French, American (Traditional), Cocktail Bars	3170	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	Closed
+905	Per Se	4.5	1596	4.0	French	5870	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm
+906	Le Bernardin	4.5	2448	4.0	French, Lounges	6208	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	5:30 pm - 11:00 pm	Closed
+907	Momofuku Ko	4.5	288	4.0	American (New)	1942	Closed	5:00 pm - 11:30 pm	5:00 pm - 11:30 pm	5:00 pm - 11:30 pm	12:30 pm - 11:30 pm	12:30 pm - 11:30 pm	12:30 pm - 3:30 pm
+908	Gotham Bar and Grill	4.5	1559	4.0	American (New), Bars	2611	12:00 pm - 9:45 pm	12:00 pm - 9:45 pm	12:00 pm - 9:45 pm	12:00 pm - 9:45 pm	12:00 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 9:45 pm
+909	Chef's Table at Brooklyn Fare	4.5	496	4.0	Japanese	1396	Closed	6:00 pm - 11:00 pm	6:00 pm - 11:00 pm	6:00 pm - 1:00 am	6:00 pm - 1:00 am	6:00 pm - 1:00 am	Closed
+910	L'Appart	5	93	4.0	French	842	Closed	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	5:30 pm - 9:30 pm	Closed
+911	The Modern	4.5	965	4.0	American (New)	2822	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	Closed
+912	Manhatta	4.5	359	4.0	American (New)	1481	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 9:30 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 9:30 pm
+913	L'Atelier de Joël Robuchon	4.5	112	4.0	French, Bars	864	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	Closed
+914	Blanca	4	165	4.0	American (New)	681	Closed	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	Closed
+915	Marea	4	1965	4.0	Italian, Seafood, Wine Bars	4428	11:45 am - 11:00 pm	11:45 am - 11:00 pm	11:45 am - 11:00 pm	11:45 am - 11:00 pm	11:45 am - 11:30 pm	11:30 am - 11:30 pm	11:30 am - 10:30 pm
+916	The River Café	4	1086	4.0	American (New), Wine Bars, Venues & Event Spaces	2280	8:30 am - 11:30 am	8:30 am - 11:30 am	8:30 am - 11:30 am	8:30 am - 11:30 am	8:30 am - 11:30 am	11:30 am - 2:30 pm	11:30 am - 2:30 pm
+917	Le Coucou	4	512	4.0	French	1577	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:00 am	7:00 am - 10:00 am
+918	Jean-Georges	4.5	1850	4.0	French, American (New), Asian Fusion	5743	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	8:00 am - 10:00 am	8:00 am - 10:30 am
+919	Blue Hill	4.5	982	4.0	American (New)	864	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm
+920	Del Frisco's Double Eagle Steakhouse	4.5	2858	4.0	Steakhouses, American (New), Seafood	3090	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 12:00 am	11:00 am - 11:00 pm	12:00 pm - 11:00 pm	3:00 pm - 10:00 pm
+921	Gabriel Kreuther	4.5	392	4.0	Lounges, French	2073	12:00 pm - 1:15 pm	12:00 pm - 1:15 pm	12:00 pm - 1:15 pm	12:00 pm - 1:15 pm	12:00 pm - 1:15 pm	5:30 pm - 10:00 pm	Closed
+922	Peter Luger	4	5517	4.0	Steakhouses	7892	11:45 am - 9:45 pm	11:45 am - 9:45 pm	11:45 am - 9:45 pm	11:45 am - 9:45 pm	11:45 am - 10:45 pm	11:45 am - 10:45 pm	12:45 pm - 9:45 pm
+923	Jungsik	4.5	558	4.0	Korean	3118	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:00 pm
+924	Aska	4.5	94	4.0	Scandinavian, Bars	700	Closed	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	Closed
+925	Del Posto	4	1397	4.0	Italian	2222	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	4:30 pm - 11:00 pm	4:30 pm - 10:00 pm
+926	15 Fox Place	4.5	107	4.0	Italian	229	Closed	Closed	Closed	7:30 pm - 11:00 pm	7:30 pm - 11:00 pm	7:30 pm - 11:00 pm	Closed
+927	The Simone	5	92	4.0	French, Bars	48	6:00 pm - 9:30 pm	6:00 pm - 9:30 pm	6:00 pm - 9:30 pm	6:00 pm - 9:30 pm	6:00 pm - 10:30 pm	6:00 pm - 10:30 pm	Closed
+928	Delmonico's	4	1008	4.0	Steakhouses, American (Traditional)	1539	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	5:00 pm - 10:00 pm	Closed
+929	Gaijin	4.5	305	4.0	Japanese, Seafood, Sushi Bars	1642	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:30 pm - 9:30 pm
+930	Hunt & Fish Club	4	495	4.0	American (New), Steakhouses, Cocktail Bars	833	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	5:00 pm - 11:30 pm	5:00 pm - 9:00 pm
+931	La Grenouille	4	420	4.0	French, Venues & Event Spaces	576	Closed	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	5:00 pm - 10:30 pm	Closed
+932	Aureole	4	872	4.0	American (New)	1684	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:00 pm - 10:00 pm	Closed
+933	Contra	4	308	4.0	American (New)	834	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	Closed
+934	Asiate	4	542	4.0	American (New), Breakfast & Brunch, Venues & Event Spaces	994	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 10:00 pm	7:00 am - 9:00 pm
+935	Reserve Cut	4	271	4.0	Steakhouses, Kosher, Asian Fusion	272	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 2:30 pm	8:00 pm - 11:30 pm	5:30 pm - 10:30 pm
+936	Cafe Matisse	4.5	329	4.0	American (New), French	614	Closed	Closed	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	6:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 9:00 pm
+937	Ai Fiori	4	1216	4.0	Italian, French, Cocktail Bars	2971	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm
+938	Bâtard	4	379	4.0	Modern European, American (New), French	1204	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	Closed
+939	Mastro's Steakhouse	4	622	4.0	Steakhouses	1017	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:30 pm	5:00 pm - 11:30 pm	5:00 pm - 10:00 pm
+940	Cafe Boulud	4	703	4.0	French	1508	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	7:00 am - 10:00 am	8:00 am - 11:00 am
+941	The Grill	4	170	4.0	Cocktail Bars, Venues & Event Spaces, American (Traditional)	615	11:45 am - 2:00 pm	11:45 am - 2:00 pm	11:00 am - 2:00 pm	11:45 am - 2:00 pm	11:45 am - 2:00 pm	5:00 pm - 11:00 pm	Closed
+942	O Ya	4.5	231	4.0	Japanese, Sushi Bars, American (New)	1567							
+943	MarkJoseph Steakhouse	4	393	4.0	Steakhouses	563	11:30 am - 9:45 pm	11:30 am - 9:45 pm	11:30 am - 9:45 pm	11:30 am - 9:45 pm	11:30 am - 10:45 pm	5:00 pm - 10:45 pm	3:00 pm - 9:00 pm
+944	Shabushabu Macoron	4.5	59	4.0	Japanese, Hot Pot	369	5:30 pm - 8:00 pm	Closed	5:30 pm - 8:00 pm	5:30 pm - 8:00 pm	5:30 pm - 8:00 pm	5:30 pm - 8:00 pm	5:30 pm - 8:00 pm
+945	Kyo Ya	4.5	449	4.0	Japanese	1260	Closed	Closed	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 10:30 pm
+946	Duane Park	4	437	4.0	Supper Clubs, Music Venues	842	Closed	6:00 pm - 1:00 am	6:00 pm - 1:00 am	7:00 pm - 3:00 am	7:00 pm - 3:00 am	7:00 pm - 3:00 am	Closed
+947	Mr. Jones Supper Club	5	52	4.0	Australian, Seafood, Asian Fusion	106	Closed	Closed	Closed	Closed	Closed	7:30 pm - 11:00 pm	Closed
+948	Aquavit	4	718	4.0	Scandinavian	1723	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	5:30 pm - 10:00 pm	Closed
+949	Indian Accent	4.5	524	4.0	Indian	1638	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm
+950	noda	4.5	34	4.0	Sushi Bars	339	8:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	Closed
+951	Babbo	4	2357	4.0	Italian	2352	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm
+952	Morimoto	4	2987	4.0	Japanese, Sushi Bars	5667	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:00 pm - 11:30 pm	5:00 pm - 10:00 pm
+953	Lu Nello	4	188	4.0	Italian	210	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	5:00 pm - 10:30 pm	Closed
+954	Nobu Fifty Seven	4	1148	4.0	Sushi Bars, Japanese, Asian Fusion	1667	11:45 am - 12:00 am	11:45 am - 12:00 am	11:45 am - 12:00 am	11:45 am - 12:00 am	11:45 am - 12:00 am	11:45 am - 12:00 am	11:45 am - 11:00 pm
+955	Craft	4	992	4.0	American (New)	742	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 9:30 pm
+956	U.P. - Unlimited Possibilities	4.5	35	4.0	Bakeries, Cafes	338	Closed	Closed	7:00 pm - 11:00 pm	7:00 pm - 11:00 pm	7:00 pm - 11:00 pm	7:00 pm - 11:00 pm	7:00 pm - 11:00 pm
+957	Bateaux New York	4	294	4.0	Venues & Event Spaces, American (Traditional), Boat Tours	413							
+958	Vaucluse	4	233	4.0	French, Venues & Event Spaces	586	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	Closed
+959	Atomix	4.5	54	4.0	Korean	425	Closed	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 12:00 am	Closed
+960	Agern	4	179	4.0	Scandinavian, Bars	682	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	5:30 pm - 10:00 pm	Closed
+961	The Pool	4	92	4.0	Seafood, Desserts, Cocktail Bars	309	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	Closed
+962	Surf	4	216	4.0	American (New), Cocktail Bars, Wine Bars	325	Closed	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	11:00 am - 3:00 pm
+963	Spirit of New Jersey	4	85	4.0	Venues & Event Spaces, American (Traditional), Boat Tours	165							
+964	Hakkasan	3.5	881	4.0	Chinese	2000	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm
+965	Sushi Kaito	4.5	160	4.0	Sushi Bars, Japanese	908							
+966	Hirohisa	4.5	149	4.0	Japanese	731	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	5:30 pm - 10:30 pm	Closed
+967	Masa	4	319	4.0	Sushi Bars, Japanese	124	6:00 pm - 9:00 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm	12:00 pm - 1:00 pm	6:00 pm - 9:00 pm	Closed
+968	Nobu Downtown	3.5	343	4.0	Japanese, Sushi Bars, Asian Fusion	895	11:45 am - 11:00 pm	11:45 am - 11:00 pm	11:45 am - 11:00 pm	11:45 am - 11:00 pm	11:45 am - 12:00 am	11:45 am - 12:00 am	11:45 am - 11:00 pm
+969	SubCulture Dining	4.5	29	4.0	American (New)	23							
+970	One If By Land Two If By Sea	3.5	1371	4.0	American (New)	1062	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:30 pm	5:00 pm - 9:30 pm
+971	Carbone	4	915	4.0	Italian	1526	5:30 pm - 11:30 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm
+972	Il Tinello Ristorante Italiano	4.5	258	4.0	Italian	139	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm
+973	Frenchette	3.5	194	4.0	Brasseries	562	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	10:00 am - 11:00 pm	10:00 am - 10:00 pm
+974	Cipriani Wall Street	3.5	191	4.0	Italian, Specialty Food	269	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	Closed	Closed
+975	Bouley at Home	4	105	4.0	French	718	11:30 am - 3:30 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	Closed
+976	CUT	4	61	4.0	Steakhouses, Breakfast & Brunch	115	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am
+977	Estiatorio Milos	4	861	4.0	Seafood, Greek, Mediterranean	1020	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm
+978	American Cut Steakhouse Tribeca	4	558	4.0	Steakhouses, American (New)	1045	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 9:30 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	Closed
+979	Scalini Fedeli	4.5	299	4.0	Italian	256	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:00 pm - 9:00 pm
+980	Nello	2	322	4.0	Italian, Caterers	176	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am	11:30 am - 12:00 am
+981	Tempura Matsui	4.5	119	4.0	Japanese, Seafood	999	Closed	11:45 am - 2:15 pm	11:45 am - 2:15 pm	11:45 am - 2:15 pm	11:45 am - 2:15 pm	12:00 pm - 2:30 pm	Closed
+982	Homestead Inn - Thomas Henkelmann	4	51	4.0	French, Desserts	34	Closed	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	6:00 pm - 11:00 pm	Closed
+983	Benjamin Steakhouse	4	1146	4.0	Steakhouses, Seafood	744	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:00 am - 11:00 pm	7:30 am - 11:00 pm	7:30 am - 11:00 pm
+984	Keens Steakhouse	4	2450	4.0	Steakhouses, Desserts, Pubs	2913	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 9:00 pm
+985	Sushi Nakazawa	4.5	1321	4.0	Japanese, Sushi Bars	5095	11:30 am - 1:30 pm	11:30 am - 1:30 pm	11:30 am - 1:30 pm	11:30 am - 1:30 pm	11:30 am - 1:30 pm	11:30 am - 1:30 pm	11:30 am - 1:30 pm
+986	Quality Meats	4	1921	4.0	Steakhouses	1961	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	5:00 pm - 11:30 pm	5:00 pm - 10:00 pm
+987	The Mark Restaurant	3.5	241	4.0	French, American (New)	165	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 1:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 1:00 am
+988	Wolfgang Puck	3.5	69	4.0	Steakhouses, American (New), Breakfast & Brunch	158	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am	7:00 am - 2:00 am
+989	MIFUNE New York	4	159	4.0	Japanese	910	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	6:00 pm - 10:30 pm	Closed
+990	Caviar Russe	4.5	124	4.0	American (New), Seafood	403	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 4:00 pm
+991	Cipriani	3.5	101	4.0	Italian, Specialty Food	114	7:00 am - 6:00 pm	7:00 am - 6:00 pm	7:00 am - 6:00 pm	7:00 am - 6:00 pm	7:00 am - 6:00 pm	Closed	Closed
+992	Cipriani Downtown	3.5	287	4.0	Italian	204	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am
+993	Nusr-Et Steakhouse	3.5	459	4.0	Steakhouses, Turkish	1005	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am
+994	Porter House Bar and Grill	3.5	622	4.0	American (New), Bars	566	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 10:00 pm
+995	Scalinatella Restaurant	4	257	4.0	Italian	156	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	12:00 pm - 3:00 pm	5:00 pm - 10:30 pm
+996	Lincoln Ristorante	4	558	4.0	Italian	938	Closed	4:30 pm - 9:00 pm	11:30 am - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm
+997	Royal 35 Steakhouse	4.5	181	4.0	Steakhouses	197	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	4:00 pm - 10:00 pm
+998	Strip House	4	518	4.0	Steakhouses	533	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	5:00 pm - 10:30 pm	5:00 pm - 10:00 pm
+999	The Russian Tea Room	3	940	4.0	Tea Rooms, Russian, Venues & Event Spaces	1348							
+1000	DaDong New York	3	556	4.0	Chinese	1540	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	Closed
+1001	Glatt A La Carte	4	33	4.0	Steakhouses, Kosher	49	1:00 pm - 10:00 pm	1:00 pm - 10:00 pm	1:00 pm - 10:00 pm	1:00 pm - 10:00 pm	Closed	Closed	1:00 pm - 10:00 pm
+1002	Felidia	4	538	4.0	Italian	413	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	5:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+1003	Il Mulino New York - Downtown	4	534	4.0	Italian	466	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	5:00 pm - 11:00 pm	4:00 pm - 10:00 pm
+1004	Torishin	4	276	4.0	Japanese	1835	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 12:00 am	5:30 pm - 11:00 pm
+1005	Benjamin Prime	4.5	251	4.0	Steakhouses	427	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	Closed
+1006	Charlie Palmer Steak	4	208	4.0	Steakhouses, American (New)	408	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 10:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 11:00 pm	6:30 am - 10:00 pm
+1007	Ruth's Chris Steak House	4	398	4.0	Steakhouses, American (Traditional)	550	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	12:00 pm - 11:00 pm	4:00 pm - 11:00 pm	2:00 pm - 9:00 pm
+1008	Hakubai	4	110	4.0	Japanese	340	Closed	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	11:45 am - 2:30 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm
+1009	Tanoshi Sushi Sake Bar	4.5	622	4.0	Sushi Bars, Japanese, Seafood	2544	Closed	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	6:00 pm - 10:00 pm	Closed
+1010	Tocqueville Restaurant	4	349	4.0	American (New), French	613	5:30 pm - 10:00 pm	5:30 am - 10:00 am	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	Closed
+1011	Shuko	4	271	4.0	Japanese, Sushi Bars	1446	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 11:30 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	5:30 pm - 9:30 pm
+1012	Sistina	3.5	88	4.0	Italian	79	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	Closed
+1013	Salinas	4	902	4.0	Spanish, Bars	1167	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	6:00 pm - 10:00 pm
+1014	Red Salt Room by David Burke	3.5	51	4.0	American (New), American (Traditional)	166	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:30 pm	5:30 pm - 10:30 pm	10:00 am - 2:30 pm
+1015	BLT Steak	4	403	4.0	Steakhouses	301	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:00 pm	5:30 pm - 11:00 pm	5:00 pm - 10:00 pm
+1016	Il Mulino New York - Long Island	3.5	118	4.0	Italian	90	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	5:00 pm - 11:00 pm	4:00 pm - 9:00 pm
+1017	Jimmy Hays Steakhouse	3.5	174	4.0	Steakhouses, American (Traditional)	198	4:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 10:30 pm	4:00 pm - 11:30 pm	4:00 pm - 11:30 pm	3:00 pm - 10:00 pm
+1018	Lorena's	4.5	162	4.0	French	156	Closed	5:00 pm - 9:00 pm	5:00 pm - 9:00 pm	5:00 pm - 9:00 pm	5:00 pm - 9:00 pm	5:00 pm - 9:00 pm	11:30 am - 2:00 pm
+1019	Sushi Daizen	4.5	105	4.0	Sushi Bars, Japanese	524	Closed	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:30 pm - 10:00 pm	5:00 pm - 9:30 pm
+1020	Romanoff Restaurant	4	32	4.0	Modern European, Performing Arts, Party & Event Planning	224	12:00 pm - 6:00 pm	12:00 pm - 6:00 pm	12:00 pm - 6:00 pm	12:00 pm - 6:00 pm	12:00 pm - 4:00 pm	12:00 pm - 4:00 pm	12:00 pm - 6:00 pm
+1021	Rainbow Room	3.5	249	4.0	American (New), Venues & Event Spaces	692	Closed	Closed	Closed	Closed	Closed	Closed	12:00 pm - 5:00 pm
+1022	Harry Cipriani	3	165	4.0	Italian	113	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am	7:00 am - 10:30 am
+1023	Wolfgang's Steakhouse	4	528	4.0	Steakhouses	362	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 10:30 pm
+1024	Sushi Inoue	4	119	4.0	Sushi Bars, Japanese	753	Closed	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 11:00 pm	5:30 pm - 10:30 pm
+1025	Wolfgang's Steakhouse	4	926	4.0	Steakhouses	909	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 10:00 pm
+1026	Toriko NY	4	58	4.0	Japanese, Cocktail Bars	263	Closed	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm	11:30 am - 3:00 pm
+1027	Sushi Ginza Onodera	4.5	165	4.0	Sushi Bars, Japanese	1907	12:00 pm - 1:30 pm	12:00 pm - 1:30 pm	12:00 pm - 1:30 pm	12:00 pm - 1:30 pm	12:00 pm - 1:30 pm	6:00 pm - 8:30 pm	Closed
+1028	Uncle Jack's Steakhouse - Westside	3.5	501	4.0	Steakhouses, Seafood, Burgers	390	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	12:00 pm - 10:00 pm
+1029	The Palm Court	3.5	398	4.0	American (New), Tea Rooms, Breakfast & Brunch	909	6:30 am - 11:00 am	6:30 am - 11:00 am	6:30 am - 11:00 am	6:30 am - 11:00 am	6:30 am - 11:00 am	7:00 am - 11:00 am	7:00 am - 11:00 am
+1030	Restaurant Serenade	4	181	4.0	French	107	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	11:30 am - 2:00 pm	5:30 pm - 10:00 pm	5:00 pm - 9:00 pm
+1031	Churrascaria Plataforma	4	1320	4.0	Brazilian, Steakhouses	856	12:00 pm - 10:00 pm	12:00 pm - 10:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 10:00 pm
+1032	Old Homestead Steak House	3.5	986	4.0	Steakhouses	778	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	1:00 pm - 11:30 pm	1:00 pm - 9:30 pm
+1033	Il Mulino New York - Uptown	3.5	210	4.0	Italian	124	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 3:30 pm	11:30 am - 4:00 pm	11:30 am - 4:00 pm
+1034	The View Restaurant & Lounge	3	1035	4.0	Lounges, American (New)	1354	5:00 pm - 12:00 am	5:00 pm - 12:00 am	4:30 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 1:30 am	4:00 pm - 1:30 am	10:00 am - 1:00 pm
+1035	Wolfgang's Steakhouse	3.5	277	4.0	Steakhouses	201	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 11:30 pm	12:00 pm - 11:30 pm	12:00 pm - 10:30 pm
+1036	Strip House	4	959	4.0	Steakhouses, Seafood	551	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:30 pm	5:00 pm - 11:30 pm	5:00 pm - 10:00 pm
+1037	Kajitsu	4	223	4.0	Japanese, Vegetarian, Vegan	885	Closed	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm	5:30 pm - 9:00 pm
+1038	Chez Catherine	4	97	4.0	French, Wine Bars	102	Closed	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	5:00 pm - 9:30 pm	Closed
+1039	Doma Land + Sea	4	59	4.0	Steakhouses, American (New), Wine Bars	127	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	Closed	7:30 pm - 12:30 am	5:00 pm - 10:00 pm
+1040	Mr Chow	3	378	4.0	Chinese	206	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm
+1041	Uncle Jack's Steakhouse - Bayside	3.5	468	4.0	Steakhouses, Seafood, Burgers	363	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	11:00 am - 10:00 pm
+1042	Scalini Fedeli	4	145	4.0	Italian	106	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 9:30 pm	12:00 pm - 10:00 pm	5:30 pm - 11:00 pm	Closed
+1043	Smith & Wollensky	3.5	1379	4.0	Steakhouses	1346	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm
+1044	Il Tulipano Restaurant	4.5	29	4.0	Italian, Venues & Event Spaces	25							
+1045	The Capital Grille	4	450	4.0	Steakhouses, Seafood, Wine Bars	456	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 9:00 pm
+1046	Peter Luger Steak House	4	1073	4.0	Steakhouses	1635	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:30 pm	12:30 pm - 10:00 pm
+1047	Morton's The Steakhouse	4	499	4.0	Steakhouses	631	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 11:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	5:00 pm - 10:00 pm
+1048	Mr Chow	3	345	4.0	Chinese	230	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm	6:00 pm - 11:30 pm
+1049	ZZ's Clam Bar	4	98	4.0	Seafood, Bars	279	Closed	6:00 pm - 1:00 am	6:00 pm - 1:00 am	6:00 pm - 1:00 am	6:00 pm - 1:00 am	6:00 pm - 1:00 am	Closed
+1050	The Lobster Club	4	82	4.0	Sushi Bars, Japanese, Asian Fusion	368	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	7:00 am - 12:00 am	5:00 pm - 12:00 am	Closed
+1051	La Panetiere	4	114	4.0	French, Venues & Event Spaces, Wine Bars	227	6:00 pm - 9:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	12:00 pm - 2:30 pm	6:00 pm - 9:30 pm	11:30 am - 2:00 pm
+1052	Zuma	3.5	606	4.0	Sushi Bars, Japanese	1613	11:45 am - 3:00 pm	11:45 am - 3:00 pm	11:45 am - 3:00 pm	11:45 am - 3:00 pm	11:45 am - 3:00 pm	5:30 pm - 11:30 pm	5:30 pm - 10:30 pm
+1053	The Manor	3.5	325	4.0	Venues & Event Spaces, American (New)	563							
+1054	Bar Masa	3.5	185	4.0	Japanese	224	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	12:00 pm - 10:30 pm	Closed
+1055	Uchu	4.5	73	4.0	Sushi Bars	1315	Closed	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 12:00 am	6:00 pm - 1:00 am	6:00 pm - 1:00 am	Closed
+1056	Astor Court	3	76	4.0	Tea Rooms, Desserts, Breakfast & Brunch	148	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm	7:00 am - 11:30 pm
+1057	Cafe Carlyle	3.5	96	4.0	Jazz & Blues, American (Traditional)	45							
+1058	Tatiana Restaurant	3	246	4.0	Russian	235	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 12:00 am	12:00 pm - 3:00 am	12:00 pm - 3:00 am	12:00 pm - 1:00 am
+1059	ALENbi	3.5	49	4.0	Middle Eastern, Kosher	117	6:30 pm - 10:30 pm	6:30 pm - 10:30 pm	6:30 pm - 10:30 pm	6:30 pm - 10:30 pm	Closed	Closed	6:30 pm - 10:30 pm
+1060	15 East Restaurant	4	625	4.0	Japanese, Sushi Bars	1694	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	5:00 pm - 9:00 pm
+1061	NYY Steak - Yankee Stadium	3.5	92	4.0	Steakhouses	155							
+1062	Chinar Restaurant & Special Events	4.5	84	4.0	Venues & Event Spaces, Mediterranean, Russian	75							
+1063	Sushi of Gari 46	4	671	4.0	Sushi Bars, Japanese	1173	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	5:30 pm - 10:45 pm	5:30 pm - 10:00 pm
+1064	La Vue	3.5	131	4.0	Lounges, French, Venues & Event Spaces	288	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	2:00 pm - 11:00 pm	1:00 pm - 4:00 am	1:00 pm - 4:00 am	12:00 pm - 12:00 am
+1065	Jewel Bako	3.5	534	4.0	Sushi Bars, Japanese	739	6:30 pm - 10:30 pm	6:30 pm - 10:30 pm	6:30 pm - 10:30 pm	6:30 pm - 10:30 pm	6:30 pm - 11:30 pm	6:30 pm - 11:30 pm	Closed
+1066	Sushi Azabu	4	425	4.0	Sushi Bars, Japanese	1170	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	5:30 pm - 10:00 pm	5:30 pm - 9:00 pm
+1067	Sparks Steak House	3.5	899	4.0	Steakhouses	550	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:00 pm	12:00 pm - 11:30 pm	5:00 pm - 11:30 pm	Closed
+1068	Spirit of New York	3.5	252	4.0	Venues & Event Spaces, American (Traditional), Boat Tours	362							
+1069	San Pietro Restaurant	3.5	66	4.0	Italian, Wine Bars	33	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	11:30 am - 2:30 pm	Closed
+1070	Staghorn Steakhouse	3	60	4.0	Steakhouses	53							
+1071	Frankie & Johnnie's Steakhouse	3.5	72	4.0	Steakhouses	39	5:00 pm - 9:30 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	5:00 pm - 11:00 pm	1:00 pm - 9:00 pm
+1072	Bobby Van's Steakhouse	3.5	119	4.0	Steakhouses, American (Traditional), Seafood	91	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	11:30 am - 10:30 pm	4:30 pm - 10:30 pm	Closed
+1073	Great Falls Bistro	3	23	4.0	Desserts, Wine Bars, Tapas Bars	22							
+1074	Sushi Of Gari	4	609	4.0	Sushi Bars, Japanese	972	Closed	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	5:00 pm - 10:30 pm	5:00 pm - 10:00 pm
+1075	La Coquille	3.5	63	4.0	French	113	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 10:00 pm	5:00 pm - 11:00 pm	5:00 pm - 11:00 pm	4:00 pm - 10:00 pm
+1076	Gari Columbus	4	323	4.0	Sushi Bars, Japanese	321	Closed	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 2:00 pm	12:00 pm - 10:45 pm	12:00 pm - 10:00 pm
+1077	Sushi Ryusei	4.5	79	4.0	Sushi Bars, Japanese	348	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	12:00 pm - 2:15 pm	5:30 pm - 11:00 pm	Closed
+1078	Sushi Mikasa	3	78	4.0	Sushi Bars	46	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am	5:00 pm - 12:00 am
+1079	Il Villagio	4	45	4.0	Italian	20	Closed	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 10:00 pm	11:30 am - 11:00 pm	4:00 pm - 11:00 pm	3:00 pm - 9:30 pm
